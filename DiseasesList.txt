@@ -1,0 +1,48 @@
+breast cancer
+Breast cancer
+CA
+cancer
+colon cancer
+gastric carcinoma
+lung cancer
+prostate cancer
+renal CA
+throat cancer
+CHF
+CAD
+acute myocardial infarction
+congestive heart failure
+coronary artery disease
+myocardial infarction
+valvular heart disease
+vascular strokes
+substance abuse
+ADHD
+bipolar
+bipolar disorder
+depressed
+depression
+mental illness
+mood disorder
+mood disorder/bipolar
+nervous breakdowns
+Schizophrenia
+suicide
+coronary heart disease
+heart attack
+heart disease
+Heart disease
+heart failure
+MI
+drug addict
+using substance
+HTNhypertensionbrain aneurysm
+cerebral aneurysm
+cerebrovascular accident
+strokestrokesadult-onset diabetes
+diabetesdiabetes mellitus
+DMtype 2 diabetes
+alcohol abuse
+alcoholicalcoholismalcohol to excess
+alcohol use
+deceased from alcohol

@@ -1,0 +1,160 @@
+history father 62
+family mother 56
+family history mother 53
+family history father 52
+father died 51
+father age 44
+patient mother 42
+mother died 41
+brother died 22
+fhx father 20
+sister age 17
+mother states 16
+patient mom 15
+mother reports 15
+fhx mother 15
+lives mother 14
+one brother 14
+history father died 14
+mother patient 13
+family mother died 12
+mother dm 10
+history mother died 10
+fhx father died 10
+sister breast 9
+mother depression 9
+mom patient 9
+medical father 8
+family medical father 8
+report mom 8
+diabetes father 8
+one sister 8
+father history 8
+medical history father 8
+maternal grandmother 8
+mother concerns 7
+siblings brother 7
+fhx mother died 7
+father ca 7
+father also 7
+states mother 7
+sister breast cancer 7
+age father 7
+associated grandmother 7
+old daughter 7
+maternal grandfather 7
+paternal grandmother 7
+brother brain 7
+father diabetes 6
+died father 6
+father side 6
+mother also 6
+mother mi 6
+history family mother 6
+mother died mi 6
+father mi 6
+father died mi 6
+relationship mother 6
+father deceased 6
+mother died cancer 6
+age sister 6
+mother alive 6
+grandmother mother 6
+father unknown 6
+associated mother 6
+plan mother 6
+mother grandmother 5
+grandmother died 5
+sister years 5
+mother disorder 5
+mother complaining 5
+two brother age 5
+maternal aunt 5
+father htn 5
+month daughter 5
+father renal 5
+brother years age 5
+fhx father htn 5
+per mother 5
+family mother history 5
+siblings brother age 5
+mother died dm 5
+reports mother 5
+father coronary artery 4
+sister also 4
+mother hypertension 4
+father artery 4
+patient grandfather 4
+father mi age 4
+grandmother maternal 4
+sister one 4
+history died father 4
+mother history died 4
+history family father 4
+mother hypertension depression 4
+mother cancer died 4
+mom ear 4
+father coronary 4
+family father history 4
+died brother 4
+medical father history 4
+maternal mother 4
+artery disease father 3
+brother disease 3
+artery disease brother 3
+disease brother 3
+mother maternal 3
+office mother 3
+coronary disease father 3
+ear mom 3
+mother family 3
+artery brother 3
+coronary father 3
+two siblings brother 3
+artery father 3
+depression mother 3
+mom sister 3
+coronary artery father 3
+brother age years 3
+years sister 3
+grandmother father 3
+father medication 3
+disorder mother 3
+pain mom 3
+ear pain mom 3
+father coronary disease 2
+mi mother 2
+sister cancer breast 2
+mi age father 2
+mother office 2
+hypertension mother 2
+brother artery 2
+daughter month 2
+history mother family 2
+died mother dm 2
+died mi father 2
+also sister 2
+grandfather maternal 2
+fhx died father 2
+history father family 2
+father grandmother 2
+father artery disease 2
+medication father 2
+brother one 2
+mi father 2
+grandmother associated 2
+mom ear pain 2
+died mother 2
+mom pain 2
+sister mom 2
+hypertension mother depression 2
+siblings two brother 2
+also mother 2
+grandfather patient 2
+fhx died mother 2
+died mi mother 2
+brother artery disease 2
+years age brother 1
+side father 1
+mother family history 1
+also father 1

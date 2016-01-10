@@ -1,0 +1,88 @@
+family mother 56
+family history mother 53
+patient mother 42
+mother died 41
+sister age 17
+mother states 16
+patient mom 15
+mother reports 15
+fhx mother 15
+lives mother 14
+mother patient 13
+family mother died 12
+mother dm 10
+history mother died 10
+sister breast 9
+mother depression 9
+mom patient 9
+report mom 8
+one sister 8
+maternal grandmother 8
+mother concerns 7
+fhx mother died 7
+states mother 7
+sister breast cancer 7
+associated grandmother 7
+paternal grandmother 7
+mother also 6
+mother mi 6
+history family mother 6
+mother died mi 6
+relationship mother 6
+mother died cancer 6
+age sister 6
+mother alive 6
+grandmother mother 6
+grandmother mother 6
+associated mother 6
+plan mother 6
+mother grandmother 5
+mother grandmother 5
+grandmother died 5
+sister years 5
+mother disorder 5
+mother complaining 5
+per mother 5
+family mother history 5
+mother died dm 5
+reports mother 5
+sister also 4
+mother hypertension 4
+grandmother maternal 4
+sister one 4
+mother history died 4
+mother hypertension depression 4
+mother cancer died 4
+mom ear 4
+maternal mother 4
+mother maternal 3
+office mother 3
+ear mom 3
+mother family 3
+depression mother 3
+mom sister 3
+mom sister 3
+years sister 3
+grandmother father 3
+disorder mother 3
+pain mom 3
+ear pain mom 3
+mi mother 2
+sister cancer breast 2
+mother office 2
+hypertension mother 2
+history mother family 2
+died mother dm 2
+also sister 2
+father grandmother 2
+grandmother associated 2
+mom ear pain 2
+died mother 2
+mom pain 2
+sister mom 2
+sister mom 2
+hypertension mother depression 2
+also mother 2
+fhx died mother 2
+died mi mother 2
+mother family history 1

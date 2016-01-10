@@ -1,0 +1,2852 @@
+family history 120
+history family 25
+mother history 15
+history mother 82
+father history 8
+history father 62
+father family 5
+family father 56
+father died 51
+died father 6
+family mother 56
+mother family 3
+father family history 0
+father history family 0
+family father history 4
+family history father 52
+history father family 2
+history family father 4
+mother family history 1
+mother history family 0
+family mother history 5
+family history mother 53
+history mother family 2
+history family mother 6
+age father 7
+father age 44
+died mother 2
+mother died 41
+patient history 29
+history patient 51
+age died 5
+died age 66
+father mother 20
+mother father 27
+age father died 2
+age died father 0
+father age died 0
+father died age 34
+died age father 4
+died father age 2
+age mother 2
+mother age 36
+patient mother 42
+mother patient 13
+cancer history 0
+history cancer 33
+patient family 19
+family patient 29
+patient family history 18
+patient history family 0
+family patient history 18
+family history patient 29
+history patient family 16
+history family patient 0
+died history 2
+history died 29
+breast cancer 27
+cancer breast 6
+died family 0
+family died 27
+report sample 0
+sample report 25
+report medical 0
+medical report 25
+sample report medical 0
+sample medical report 9
+report sample medical 0
+report medical sample 0
+medical sample report 25
+medical report sample 0
+sample report medical transcription 0
+sample report transcription medical 0
+sample medical report transcription 0
+sample medical transcription report 9
+sample transcription report medical 0
+sample transcription medical report 0
+report sample medical transcription 0
+report sample transcription medical 0
+report medical sample transcription 0
+report medical transcription sample 0
+report transcription sample medical 0
+report transcription medical sample 0
+medical sample report transcription 0
+medical sample transcription report 0
+medical report sample transcription 0
+medical report transcription sample 0
+medical transcription sample report 25
+medical transcription report sample 0
+transcription sample report medical 0
+transcription sample medical report 0
+transcription report sample medical 0
+transcription report medical sample 0
+transcription medical sample report 0
+transcription medical report sample 0
+died family history 0
+died history family 0
+family died history 0
+family history died 25
+history died family 0
+history family died 2
+sample medical 9
+medical sample 25
+report transcription medical 0
+report medical transcription 0
+transcription report medical 0
+transcription medical report 0
+medical report transcription 0
+medical transcription report 25
+sample transcription medical 0
+sample medical transcription 9
+transcription sample medical 0
+transcription medical sample 0
+medical sample transcription 0
+medical transcription sample 25
+report transcription sample 0
+report sample transcription 0
+transcription report sample 0
+transcription sample report 25
+sample report transcription 0
+sample transcription report 9
+report transcription 0
+transcription report 25
+transcription medical 0
+medical transcription 25
+sample transcription 9
+transcription sample 25
+age cancer 15
+cancer age 15
+cancer mother 6
+mother cancer 17
+age died mother 0
+age mother died 0
+died age mother 0
+died mother age 0
+mother age died 2
+mother died age 23
+illness history 7
+history illness 22
+social history 22
+history social 0
+age brother 3
+brother age 22
+died cancer 23
+cancer died 4
+father disease 17
+disease father 5
+father fhx 0
+fhx father 20
+old years 2
+years old 30
+disease history 0
+history disease 21
+illness present history 0
+illness history present 0
+present illness history 7
+present history illness 0
+history illness present 0
+history present illness 18
+patient mom 15
+mom patient 9
+present history 7
+history present 18
+father cancer 18
+cancer father 2
+admits family history 18
+admits history family 0
+family admits history 18
+family history admits 18
+history admits family 18
+history family admits 0
+admits patient 0
+patient admits 18
+illness present 0
+present illness 18
+brother died 22
+died brother 4
+admits history 18
+history admits 18
+admits family 18
+family admits 18
+old year 1
+year old 22
+medical history 19
+history medical 5
+sample patient 17
+patient sample 4
+diabetes family history 0
+diabetes history family 0
+family diabetes history 0
+family history diabetes 18
+history diabetes family 2
+history family diabetes 0
+heart died 0
+died heart 20
+child mother 11
+mother child 11
+father died family 0
+father family died 0
+died father family 0
+died family father 0
+family father died 16
+family died father 4
+fhx died 16
+died fhx 0
+stroke father 4
+father stroke 11
+breast history 0
+history breast 15
+states mother 7
+mother states 16
+admits patient family 0
+admits family patient 0
+patient admits family 15
+patient family admits 0
+family admits patient 0
+family patient admits 15
+admits patient history 0
+admits history patient 0
+patient admits history 15
+patient history admits 0
+history admits patient 0
+history patient admits 15
+admits patient family history 0
+admits patient history family 0
+admits family patient history 0
+admits family history patient 0
+admits history patient family 0
+admits history family patient 0
+patient admits family history 15
+patient admits history family 0
+patient family admits history 0
+patient family history admits 0
+patient history admits family 0
+patient history family admits 0
+family admits patient history 0
+family admits history patient 0
+family patient admits history 15
+family patient history admits 0
+family history admits patient 0
+family history patient admits 15
+history admits patient family 0
+history admits family patient 0
+history patient admits family 15
+history patient family admits 0
+history family admits patient 0
+history family patient admits 0
+age sister 6
+sister age 17
+patient father 12
+father patient 6
+old father 0
+father old 15
+report patient 13
+patient report 4
+fhx mother 15
+mother fhx 0
+father died family history 0
+father died history family 0
+father family died history 0
+father family history died 0
+father history died family 0
+father history family died 0
+died father family history 0
+died father history family 0
+died family father history 0
+died family history father 0
+died history father family 0
+died history family father 0
+family father died history 0
+family father history died 0
+family died father history 0
+family died history father 0
+family history father died 14
+family history died father 4
+history father died family 0
+history father family died 0
+history died father family 0
+history died family father 0
+history family father died 0
+history family died father 0
+patient daughter 21
+daughter patient 5
+age fhx died 0
+age died fhx 0
+fhx age died 0
+fhx died age 14
+died age fhx 0
+died fhx age 0
+father died history 0
+father history died 0
+died father history 0
+died history father 0
+history father died 14
+history died father 4
+age patient 0
+patient age 16
+patient brother 12
+brother patient 2
+age fhx 0
+fhx age 14
+history died mother 0
+history mother died 10
+died history mother 0
+died mother history 0
+mother history died 4
+mother died history 0
+heart disease 14
+disease heart 0
+report subjective sample 0
+report sample subjective 0
+subjective report sample 0
+subjective sample report 0
+sample report subjective 13
+sample subjective report 0
+two one 10
+one two 5
+report subjective 13
+subjective report 0
+subjective transcription medical report sample 0
+subjective transcription medical sample report 0
+subjective transcription report medical sample 0
+subjective transcription report sample medical 0
+subjective transcription sample medical report 0
+subjective transcription sample report medical 0
+subjective medical transcription report sample 0
+subjective medical transcription sample report 0
+subjective medical report transcription sample 0
+subjective medical report sample transcription 0
+subjective medical sample transcription report 0
+subjective medical sample report transcription 0
+subjective report transcription medical sample 0
+subjective report transcription sample medical 0
+subjective report medical transcription sample 0
+subjective report medical sample transcription 0
+subjective report sample transcription medical 0
+subjective report sample medical transcription 0
+subjective sample transcription medical report 0
+subjective sample transcription report medical 0
+subjective sample medical transcription report 0
+subjective sample medical report transcription 0
+subjective sample report transcription medical 0
+subjective sample report medical transcription 0
+transcription subjective medical report sample 0
+transcription subjective medical sample report 0
+transcription subjective report medical sample 0
+transcription subjective report sample medical 0
+transcription subjective sample medical report 0
+transcription subjective sample report medical 0
+transcription medical subjective report sample 0
+transcription medical subjective sample report 0
+transcription medical report subjective sample 0
+transcription medical report sample subjective 0
+transcription medical sample subjective report 0
+transcription medical sample report subjective 0
+transcription report subjective medical sample 0
+transcription report subjective sample medical 0
+transcription report medical subjective sample 0
+transcription report medical sample subjective 0
+transcription report sample subjective medical 0
+transcription report sample medical subjective 0
+transcription sample subjective medical report 0
+transcription sample subjective report medical 0
+transcription sample medical subjective report 0
+transcription sample medical report subjective 0
+transcription sample report subjective medical 0
+transcription sample report medical subjective 0
+medical subjective transcription report sample 0
+medical subjective transcription sample report 0
+medical subjective report transcription sample 0
+medical subjective report sample transcription 0
+medical subjective sample transcription report 0
+medical subjective sample report transcription 0
+medical transcription subjective report sample 0
+medical transcription subjective sample report 0
+medical transcription report subjective sample 0
+medical transcription report sample subjective 0
+medical transcription sample subjective report 0
+medical transcription sample report subjective 13
+medical report subjective transcription sample 0
+medical report subjective sample transcription 0
+medical report transcription subjective sample 0
+medical report transcription sample subjective 0
+medical report sample subjective transcription 0
+medical report sample transcription subjective 0
+medical sample subjective transcription report 0
+medical sample subjective report transcription 0
+medical sample transcription subjective report 0
+medical sample transcription report subjective 0
+medical sample report subjective transcription 0
+medical sample report transcription subjective 0
+report subjective transcription medical sample 0
+report subjective transcription sample medical 0
+report subjective medical transcription sample 0
+report subjective medical sample transcription 0
+report subjective sample transcription medical 0
+report subjective sample medical transcription 0
+report transcription subjective medical sample 0
+report transcription subjective sample medical 0
+report transcription medical subjective sample 0
+report transcription medical sample subjective 0
+report transcription sample subjective medical 0
+report transcription sample medical subjective 0
+report medical subjective transcription sample 0
+report medical subjective sample transcription 0
+report medical transcription subjective sample 0
+report medical transcription sample subjective 0
+report medical sample subjective transcription 0
+report medical sample transcription subjective 0
+report sample subjective transcription medical 0
+report sample subjective medical transcription 0
+report sample transcription subjective medical 0
+report sample transcription medical subjective 0
+report sample medical subjective transcription 0
+report sample medical transcription subjective 0
+sample subjective transcription medical report 0
+sample subjective transcription report medical 0
+sample subjective medical transcription report 0
+sample subjective medical report transcription 0
+sample subjective report transcription medical 0
+sample subjective report medical transcription 0
+sample transcription subjective medical report 0
+sample transcription subjective report medical 0
+sample transcription medical subjective report 0
+sample transcription medical report subjective 0
+sample transcription report subjective medical 0
+sample transcription report medical subjective 0
+sample medical subjective transcription report 0
+sample medical subjective report transcription 0
+sample medical transcription subjective report 0
+sample medical transcription report subjective 4
+sample medical report subjective transcription 0
+sample medical report transcription subjective 0
+sample report subjective transcription medical 0
+sample report subjective medical transcription 0
+sample report transcription subjective medical 0
+sample report transcription medical subjective 0
+sample report medical subjective transcription 0
+sample report medical transcription subjective 0
+age years 7
+years age 9
+sample transcription subjective 4
+sample subjective transcription 0
+transcription sample subjective 13
+transcription subjective sample 0
+subjective sample transcription 0
+subjective transcription sample 0
+report transcription subjective 0
+report subjective transcription 0
+transcription report subjective 13
+transcription subjective report 0
+subjective report transcription 0
+subjective transcription report 0
+medical family 2
+family medical 12
+sample subjective report transcription 0
+sample subjective transcription report 0
+sample report subjective transcription 0
+sample report transcription subjective 0
+sample transcription subjective report 0
+sample transcription report subjective 4
+subjective sample report transcription 0
+subjective sample transcription report 0
+subjective report sample transcription 0
+subjective report transcription sample 0
+subjective transcription sample report 0
+subjective transcription report sample 0
+report sample subjective transcription 0
+report sample transcription subjective 0
+report subjective sample transcription 0
+report subjective transcription sample 0
+report transcription sample subjective 0
+report transcription subjective sample 0
+transcription sample subjective report 0
+transcription sample report subjective 13
+transcription subjective sample report 0
+transcription subjective report sample 0
+transcription report sample subjective 0
+transcription report subjective sample 0
+disease coronary 0
+coronary disease 13
+subjective report medical transcription 0
+subjective report transcription medical 0
+subjective medical report transcription 0
+subjective medical transcription report 0
+subjective transcription report medical 0
+subjective transcription medical report 0
+report subjective medical transcription 0
+report subjective transcription medical 0
+report medical subjective transcription 0
+report medical transcription subjective 0
+report transcription subjective medical 0
+report transcription medical subjective 0
+medical subjective report transcription 0
+medical subjective transcription report 0
+medical report subjective transcription 0
+medical report transcription subjective 0
+medical transcription subjective report 0
+medical transcription report subjective 13
+transcription subjective report medical 0
+transcription subjective medical report 0
+transcription report subjective medical 0
+transcription report medical subjective 0
+transcription medical subjective report 0
+transcription medical report subjective 0
+subjective transcription 0
+transcription subjective 13
+subjective medical 0
+medical subjective 13
+subjective sample medical 0
+subjective medical sample 0
+sample subjective medical 0
+sample medical subjective 4
+medical subjective sample 0
+medical sample subjective 13
+mi died 0
+died mi 15
+heart failure 15
+failure heart 0
+medical family history 1
+medical history family 2
+family medical history 12
+family history medical 1
+history medical family 0
+history family medical 1
+subjective sample report medical 0
+subjective sample medical report 0
+subjective report sample medical 0
+subjective report medical sample 0
+subjective medical sample report 0
+subjective medical report sample 0
+sample subjective report medical 0
+sample subjective medical report 0
+sample report subjective medical 0
+sample report medical subjective 0
+sample medical subjective report 0
+sample medical report subjective 4
+report subjective sample medical 0
+report subjective medical sample 0
+report sample subjective medical 0
+report sample medical subjective 0
+report medical subjective sample 0
+report medical sample subjective 0
+medical subjective sample report 0
+medical subjective report sample 0
+medical sample subjective report 0
+medical sample report subjective 13
+medical report subjective sample 0
+medical report sample subjective 0
+heart father 4
+father heart 9
+subjective sample medical transcription 0
+subjective sample transcription medical 0
+subjective medical sample transcription 0
+subjective medical transcription sample 0
+subjective transcription sample medical 0
+subjective transcription medical sample 0
+sample subjective medical transcription 0
+sample subjective transcription medical 0
+sample medical subjective transcription 0
+sample medical transcription subjective 4
+sample transcription subjective medical 0
+sample transcription medical subjective 0
+medical subjective sample transcription 0
+medical subjective transcription sample 0
+medical sample subjective transcription 0
+medical sample transcription subjective 0
+medical transcription subjective sample 0
+medical transcription sample subjective 13
+transcription subjective sample medical 0
+transcription subjective medical sample 0
+transcription sample subjective medical 0
+transcription sample medical subjective 0
+transcription medical subjective sample 0
+transcription medical sample subjective 0
+breast mother 6
+mother breast 9
+subjective transcription medical 0
+subjective medical transcription 0
+transcription subjective medical 0
+transcription medical subjective 0
+medical subjective transcription 0
+medical transcription subjective 13
+sample name 13
+name sample 9
+artery coronary 0
+coronary artery 13
+name description 13
+description name 0
+sample subjective 13
+subjective sample 0
+subjective report medical 0
+subjective medical report 0
+report subjective medical 0
+report medical subjective 0
+medical subjective report 0
+medical report subjective 13
+lives mother 14
+mother lives 0
+mother history social 0
+mother social history 0
+history mother social 0
+history social mother 0
+social mother history 0
+social history mother 12
+sisters brothers 0
+brothers sisters 12
+reports mother 5
+mother reports 15
+white old 0
+old white 14
+family died mother 0
+family mother died 12
+died family mother 0
+died mother family 0
+mother family died 0
+mother died family 0
+age breast 5
+breast age 9
+age breast cancer 5
+age cancer breast 0
+breast age cancer 2
+breast cancer age 9
+cancer age breast 2
+cancer breast age 2
+father fhx died 0
+father died fhx 0
+fhx father died 10
+fhx died father 2
+died father fhx 0
+died fhx father 0
+father diabetes 6
+diabetes father 8
+brother one 2
+one brother 14
+male old 0
+old male 16
+mother social 0
+social mother 12
+father died mother 2
+father mother died 1
+died father mother 0
+died mother father 0
+mother father died 6
+mother died father 6
+illness year 11
+year illness 0
+two cancer 11
+cancer two 4
+artery disease coronary 0
+artery coronary disease 0
+disease artery coronary 0
+disease coronary artery 0
+coronary artery disease 11
+coronary disease artery 0
+heart mother 0
+mother heart 11
+brother years 14
+years brother 7
+hypertension father 6
+father hypertension 5
+depression mother 3
+mother depression 9
+artery disease 11
+disease artery 0
+patient today 10
+today patient 1
+patient lives 14
+lives patient 4
+well child 8
+child well 5
+daughter one 0
+one daughter 11
+patient social 0
+social patient 11
+child well mother 0
+child mother well 5
+well child mother 2
+well mother child 2
+mother child well 0
+mother well child 6
+history patient social 0
+history social patient 0
+patient history social 0
+patient social history 0
+social history patient 11
+social patient history 0
+age father fhx died 0
+age father died fhx 0
+age fhx father died 0
+age fhx died father 0
+age died father fhx 0
+age died fhx father 0
+father age fhx died 0
+father age died fhx 0
+father fhx age died 0
+father fhx died age 0
+father died age fhx 0
+father died fhx age 0
+fhx age father died 0
+fhx age died father 0
+fhx father age died 0
+fhx father died age 8
+fhx died age father 2
+fhx died father age 0
+died age father fhx 0
+died age fhx father 0
+died father age fhx 0
+died father fhx age 0
+died fhx age father 0
+died fhx father age 0
+male old year 0
+male year old 0
+old male year 0
+old year male 0
+year male old 0
+year old male 12
+mi fhx 0
+fhx mi 10
+male mother 14
+mother male 0
+brothers two 2
+two brothers 10
+type name 10
+name type 0
+mother diabetes 8
+diabetes mother 4
+report old 10
+old report 0
+two years 14
+years two 0
+patient present 2
+present patient 9
+white old year 0
+white year old 0
+old white year 0
+old year white 0
+year white old 0
+year old white 10
+mi fhx died 0
+mi died fhx 0
+fhx mi died 0
+fhx died mi 10
+died mi fhx 0
+died fhx mi 0
+white year 0
+year white 10
+stroke died 4
+died stroke 8
+consent patient 8
+patient consent 2
+age father fhx 0
+age fhx father 0
+father age fhx 0
+father fhx age 0
+fhx age father 2
+fhx father age 8
+sister died 10
+died sister 2
+heart age 4
+age heart 10
+sample type name 10
+sample name type 0
+type sample name 10
+type name sample 7
+name sample type 0
+name type sample 0
+white male 12
+male white 0
+grandmother mother 6
+mother grandmother 5
+male year 0
+year male 12
+dm mother 0
+mother dm 10
+sample type 10
+type sample 10
+history died family mother 0
+history died mother family 0
+history family died mother 0
+history family mother died 0
+history mother died family 0
+history mother family died 0
+died history family mother 0
+died history mother family 0
+died family history mother 0
+died family mother history 0
+died mother history family 0
+died mother family history 0
+family history died mother 0
+family history mother died 10
+family died history mother 0
+family died mother history 0
+family mother history died 0
+family mother died history 0
+mother history died family 0
+mother history family died 0
+mother died history family 0
+mother died family history 0
+mother family history died 0
+mother family died history 0
+ages old years 0
+ages years old 11
+old ages years 0
+old years ages 0
+years ages old 0
+years old ages 0
+ages old 11
+old ages 0
+obtained informed 0
+informed obtained 9
+father brother 9
+brother father 0
+illness patient present 0
+illness present patient 0
+patient illness present 0
+patient present illness 2
+present illness patient 7
+present patient illness 0
+heart father disease 0
+heart disease father 2
+father heart disease 7
+father disease heart 0
+disease heart father 0
+disease father heart 0
+age old 8
+old age 5
+fhx died mother 2
+fhx mother died 7
+died fhx mother 0
+died mother fhx 0
+mother fhx died 0
+mother died fhx 0
+illness patient present history 0
+illness patient history present 0
+illness present patient history 0
+illness present history patient 0
+illness history patient present 0
+illness history present patient 0
+patient illness present history 0
+patient illness history present 0
+patient present illness history 0
+patient present history illness 0
+patient history illness present 0
+patient history present illness 2
+present illness patient history 7
+present illness history patient 3
+present patient illness history 0
+present patient history illness 0
+present history illness patient 0
+present history patient illness 0
+history illness patient present 0
+history illness present patient 0
+history patient illness present 0
+history patient present illness 2
+history present illness patient 7
+history present patient illness 0
+obtained consent 0
+consent obtained 9
+obtained consent informed 0
+obtained informed consent 0
+consent obtained informed 0
+consent informed obtained 0
+informed obtained consent 0
+informed consent obtained 9
+sons two 0
+two sons 9
+illness patient 7
+patient illness 2
+patient old 9
+old patient 2
+significant family 2
+family significant 8
+two brother 9
+brother two 0
+transcription description 0
+description transcription 9
+illness patient history 7
+illness history patient 3
+patient illness history 0
+patient history illness 2
+history illness patient 7
+history patient illness 2
+artery history 0
+history artery 9
+age mi 1
+mi age 8
+transcription medical description 0
+transcription description medical 0
+medical transcription description 0
+medical description transcription 0
+description transcription medical 0
+description medical transcription 9
+significant history 2
+history significant 9
+old died 0
+died old 9
+father significant 0
+significant father 9
+heart died mother 0
+heart mother died 0
+died heart mother 0
+died mother heart 0
+mother heart died 0
+mother died heart 9
+htn fhx 0
+fhx htn 9
+coronary history 0
+history coronary 9
+sister cancer 9
+cancer sister 0
+medical description 0
+description medical 9
+patient present history 0
+patient history present 2
+present patient history 7
+present history patient 3
+history patient present 2
+history present patient 7
+patient year 9
+year patient 3
+child history 0
+history child 12
+ages years 11
+years ages 0
+age mi died 0
+age died mi 1
+mi age died 0
+mi died age 0
+died age mi 0
+died mi age 8
+artery history coronary 0
+artery coronary history 0
+history artery coronary 0
+history coronary artery 9
+coronary artery history 0
+coronary history artery 0
+consent informed 0
+informed consent 9
+grandmother maternal 4
+maternal grandmother 8
+sister breast 9
+breast sister 0
+father mi fhx died 0
+father mi died fhx 0
+father fhx mi died 0
+father fhx died mi 0
+father died mi fhx 0
+father died fhx mi 0
+mi father fhx died 0
+mi father died fhx 0
+mi fhx father died 0
+mi fhx died father 0
+mi died father fhx 0
+mi died fhx father 0
+fhx father mi died 0
+fhx father died mi 6
+fhx mi father died 0
+fhx mi died father 0
+fhx died father mi 0
+fhx died mi father 2
+died father mi fhx 0
+died father fhx mi 0
+died mi father fhx 0
+died mi fhx father 0
+died fhx father mi 0
+died fhx mi father 0
+lives history 0
+history lives 8
+lives social 0
+social lives 8
+also patient 0
+patient also 8
+died congestive 8
+congestive died 0
+medical father family history 0
+medical father history family 0
+medical family father history 0
+medical family history father 0
+medical history father family 0
+medical history family father 0
+father medical family history 0
+father medical history family 0
+father family medical history 0
+father family history medical 0
+father history medical family 0
+father history family medical 0
+family medical father history 4
+family medical history father 8
+family father medical history 0
+family father history medical 0
+family history medical father 0
+family history father medical 0
+history medical father family 0
+history medical family father 0
+history father medical family 0
+history father family medical 0
+history family medical father 0
+history family father medical 0
+also cancer 6
+cancer also 2
+stroke father died 2
+stroke died father 2
+father stroke died 0
+father died stroke 4
+died stroke father 2
+died father stroke 0
+diabetes father history 0
+diabetes history father 0
+father diabetes history 0
+father history diabetes 0
+history diabetes father 4
+history father diabetes 4
+transcription mom 8
+mom transcription 0
+report medical mom 0
+report mom medical 0
+medical report mom 8
+medical mom report 0
+mom report medical 0
+mom medical report 0
+mom today 6
+today mom 4
+mi died mother 0
+mi mother died 0
+died mi mother 2
+died mother mi 0
+mother mi died 0
+mother died mi 6
+consent technique 0
+technique consent 8
+unknown died 4
+died unknown 8
+report transcription medical mom 0
+report transcription mom medical 0
+report medical transcription mom 0
+report medical mom transcription 0
+report mom transcription medical 0
+report mom medical transcription 0
+transcription report medical mom 0
+transcription report mom medical 0
+transcription medical report mom 0
+transcription medical mom report 0
+transcription mom report medical 0
+transcription mom medical report 0
+medical report transcription mom 0
+medical report mom transcription 0
+medical transcription report mom 8
+medical transcription mom report 0
+medical mom report transcription 0
+medical mom transcription report 0
+mom report transcription medical 0
+mom report medical transcription 0
+mom transcription report medical 0
+mom transcription medical report 0
+mom medical report transcription 0
+mom medical transcription report 0
+obtained technique informed 0
+obtained informed technique 0
+technique obtained informed 0
+technique informed obtained 8
+informed obtained technique 0
+informed technique obtained 0
+white mother 10
+mother white 0
+sister one 4
+one sister 8
+medical father history 4
+medical history father 8
+father medical history 0
+father history medical 0
+history medical father 0
+history father medical 0
+obtained technique 0
+technique obtained 8
+reports history 2
+history reports 6
+obtained consent technique 0
+obtained technique consent 0
+consent obtained technique 0
+consent technique obtained 0
+technique obtained consent 0
+technique consent obtained 8
+obtained patient 8
+patient obtained 0
+technique informed 8
+informed technique 0
+cancer paternal 1
+paternal cancer 9
+also history 3
+history also 5
+medical father family 0
+medical family father 0
+father medical family 0
+father family medical 0
+family medical father 8
+family father medical 0
+heart congestive failure 0
+heart failure congestive 0
+congestive heart failure 8
+congestive failure heart 0
+failure heart congestive 0
+failure congestive heart 0
+cancer years 6
+years cancer 2
+died cancer family history 0
+died cancer history family 0
+died family cancer history 0
+died family history cancer 0
+died history cancer family 0
+died history family cancer 0
+cancer died family history 0
+cancer died history family 0
+cancer family died history 0
+cancer family history died 0
+cancer history died family 0
+cancer history family died 0
+family died cancer history 0
+family died history cancer 0
+family cancer died history 0
+family cancer history died 0
+family history died cancer 6
+family history cancer died 4
+history died cancer family 0
+history died family cancer 0
+history cancer died family 0
+history cancer family died 0
+history family died cancer 0
+history family cancer died 0
+grandmother disease 3
+disease grandmother 5
+report transcription mom 0
+report mom transcription 0
+transcription report mom 8
+transcription mom report 0
+mom report transcription 0
+mom transcription report 0
+history reports mother 2
+history mother reports 4
+reports history mother 2
+reports mother history 0
+mother history reports 0
+mother reports history 0
+mi mother 2
+mother mi 6
+report mom 8
+mom report 0
+died cancer family mother 0
+died cancer mother family 0
+died family cancer mother 0
+died family mother cancer 0
+died mother cancer family 0
+died mother family cancer 0
+cancer died family mother 0
+cancer died mother family 0
+cancer family died mother 0
+cancer family mother died 0
+cancer mother died family 0
+cancer mother family died 0
+family died cancer mother 0
+family died mother cancer 0
+family cancer died mother 0
+family cancer mother died 0
+family mother died cancer 6
+family mother cancer died 4
+mother died cancer family 0
+mother died family cancer 0
+mother cancer died family 0
+mother cancer family died 0
+mother family died cancer 0
+mother family cancer died 0
+father mi died 0
+father died mi 6
+mi father died 0
+mi died father 0
+died father mi 0
+died mi father 2
+ago years 0
+years ago 8
+age mi fhx died 0
+age mi died fhx 0
+age fhx mi died 0
+age fhx died mi 0
+age died mi fhx 0
+age died fhx mi 0
+mi age fhx died 0
+mi age died fhx 0
+mi fhx age died 0
+mi fhx died age 0
+mi died age fhx 0
+mi died fhx age 0
+fhx age mi died 0
+fhx age died mi 0
+fhx mi age died 0
+fhx mi died age 0
+fhx died age mi 0
+fhx died mi age 8
+died age mi fhx 0
+died age fhx mi 0
+died mi age fhx 0
+died mi fhx age 0
+died fhx age mi 0
+died fhx mi age 0
+failure congestive 0
+congestive failure 8
+mi father 2
+father mi 6
+report patient mom 4
+report mom patient 4
+patient report mom 2
+patient mom report 0
+mom report patient 0
+mom patient report 0
+consent description 0
+description consent 8
+father mi fhx 0
+father fhx mi 0
+mi father fhx 0
+mi fhx father 0
+fhx father mi 6
+fhx mi father 2
+hypertension depression 8
+depression hypertension 0
+father alcohol 8
+alcohol father 0
+obtained consent patient 0
+obtained patient consent 0
+consent obtained patient 8
+consent patient obtained 0
+patient obtained consent 0
+patient consent obtained 0
+well check 10
+check well 2
+age mi fhx 0
+age fhx mi 0
+mi age fhx 0
+mi fhx age 0
+fhx age mi 0
+fhx mi age 8
+history lives social 0
+history social lives 0
+lives history social 0
+lives social history 0
+social history lives 8
+social lives history 0
+side mother 3
+mother side 6
+currently old 6
+old currently 2
+heart congestive 0
+congestive heart 8
+died one 4
+one died 8
+cancer died history 0
+cancer history died 0
+died cancer history 0
+died history cancer 0
+history cancer died 4
+history died cancer 6
+transcription medical mom 0
+transcription mom medical 0
+medical transcription mom 8
+medical mom transcription 0
+mom transcription medical 0
+mom medical transcription 0
+obtained consent technique informed 0
+obtained consent informed technique 0
+obtained technique consent informed 0
+obtained technique informed consent 0
+obtained informed consent technique 0
+obtained informed technique consent 0
+consent obtained technique informed 0
+consent obtained informed technique 0
+consent technique obtained informed 0
+consent technique informed obtained 0
+consent informed obtained technique 0
+consent informed technique obtained 0
+technique obtained consent informed 0
+technique obtained informed consent 0
+technique consent obtained informed 0
+technique consent informed obtained 0
+technique informed obtained consent 0
+technique informed consent obtained 8
+informed obtained consent technique 0
+informed obtained technique consent 0
+informed consent obtained technique 0
+informed consent technique obtained 0
+informed technique obtained consent 0
+informed technique consent obtained 0
+medical father 8
+father medical 0
+consent technique informed 0
+consent informed technique 0
+technique consent informed 0
+technique informed consent 8
+informed consent technique 0
+informed technique consent 0
+colon cancer 16
+cancer colon 0
+cancer died mother 0
+cancer mother died 0
+died cancer mother 0
+died mother cancer 0
+mother cancer died 4
+mother died cancer 6
+age history died mother 0
+age history mother died 0
+age died history mother 0
+age died mother history 0
+age mother history died 0
+age mother died history 0
+history age died mother 0
+history age mother died 0
+history died age mother 0
+history died mother age 0
+history mother age died 2
+history mother died age 4
+died age history mother 0
+died age mother history 0
+died history age mother 0
+died history mother age 0
+died mother age history 0
+died mother history age 0
+mother age history died 0
+mother age died history 0
+mother history age died 0
+mother history died age 4
+mother died age history 0
+mother died history age 0
+white male old 0
+white old male 0
+male white old 0
+male old white 0
+old white male 10
+old male white 0
+medical mom 8
+mom medical 0
+old daughter 7
+daughter old 0
+artery family coronary 0
+artery coronary family 0
+family artery coronary 0
+family coronary artery 7
+coronary artery family 0
+coronary family artery 0
+artery history family coronary 0
+artery history coronary family 0
+artery family history coronary 0
+artery family coronary history 0
+artery coronary history family 0
+artery coronary family history 0
+history artery family coronary 0
+history artery coronary family 0
+history family artery coronary 0
+history family coronary artery 0
+history coronary artery family 0
+history coronary family artery 0
+family artery history coronary 0
+family artery coronary history 0
+family history artery coronary 0
+family history coronary artery 7
+family coronary artery history 0
+family coronary history artery 0
+coronary artery history family 0
+coronary artery family history 0
+coronary history artery family 0
+coronary history family artery 0
+coronary family artery history 0
+coronary family history artery 0
+dm died mother 0
+dm mother died 0
+died dm mother 0
+died mother dm 2
+mother dm died 0
+mother died dm 5
+medical history patient mother 5
+medical history mother patient 0
+medical patient history mother 0
+medical patient mother history 3
+medical mother history patient 0
+medical mother patient history 0
+history medical patient mother 0
+history medical mother patient 0
+history patient medical mother 2
+history patient mother medical 1
+history mother medical patient 0
+history mother patient medical 0
+patient medical history mother 2
+patient medical mother history 0
+patient history medical mother 0
+patient history mother medical 0
+patient mother medical history 1
+patient mother history medical 0
+mother medical history patient 0
+mother medical patient history 0
+mother history medical patient 0
+mother history patient medical 0
+mother patient medical history 0
+mother patient history medical 0
+age fhx mother 0
+age mother fhx 0
+fhx age mother 0
+fhx mother age 7
+mother age fhx 0
+mother fhx age 0
+age fhx died mother 0
+age fhx mother died 0
+age died fhx mother 0
+age died mother fhx 0
+age mother fhx died 0
+age mother died fhx 0
+fhx age died mother 0
+fhx age mother died 0
+fhx died age mother 0
+fhx died mother age 0
+fhx mother age died 0
+fhx mother died age 7
+died age fhx mother 0
+died age mother fhx 0
+died fhx age mother 0
+died fhx mother age 0
+died mother age fhx 0
+died mother fhx age 0
+mother age fhx died 0
+mother age died fhx 0
+mother fhx age died 0
+mother fhx died age 0
+mother died age fhx 0
+mother died fhx age 0
+heart age died 0
+heart died age 0
+age heart died 0
+age died heart 0
+died heart age 2
+died age heart 9
+healthy sons two 0
+healthy two sons 0
+sons healthy two 0
+sons two healthy 0
+two healthy sons 0
+two sons healthy 7
+patient years 8
+years patient 2
+family coronary 7
+coronary family 0
+reports family 3
+family reports 6
+artery father 3
+father artery 4
+sister brother 0
+brother sister 7
+also mother 2
+mother also 6
+ca father died 0
+ca died father 0
+father ca died 0
+father died ca 5
+died ca father 0
+died father ca 2
+brain brother 0
+brother brain 7
+old description 0
+description old 7
+history disease coronary 0
+history coronary disease 7
+disease history coronary 0
+disease coronary history 0
+coronary history disease 0
+coronary disease history 0
+family grandfather 7
+grandfather family 0
+artery family history 0
+artery history family 0
+family artery history 0
+family history artery 7
+history artery family 0
+history family artery 0
+brother diabetes 5
+diabetes brother 4
+report sample year 0
+report year sample 0
+sample report year 7
+sample year report 0
+year report sample 0
+year sample report 0
+artery history disease coronary 0
+artery history coronary disease 0
+artery disease history coronary 0
+artery disease coronary history 0
+artery coronary history disease 0
+artery coronary disease history 0
+history artery disease coronary 0
+history artery coronary disease 0
+history disease artery coronary 0
+history disease coronary artery 0
+history coronary artery disease 7
+history coronary disease artery 0
+disease artery history coronary 0
+disease artery coronary history 0
+disease history artery coronary 0
+disease history coronary artery 0
+disease coronary artery history 0
+disease coronary history artery 0
+coronary artery history disease 0
+coronary artery disease history 0
+coronary history artery disease 0
+coronary history disease artery 0
+coronary disease artery history 0
+coronary disease history artery 0
+ca father 0
+father ca 7
+artery family 0
+family artery 7
+maternal grandfather 7
+grandfather maternal 2
+age old died 0
+age died old 2
+old age died 0
+old died age 0
+died age old 6
+died old age 5
+report year 7
+year report 0
+father coronary 4
+coronary father 3
+maternal cancer 4
+cancer maternal 3
+age daughter 5
+daughter age 5
+family significant history 0
+family history significant 5
+significant family history 2
+significant history family 0
+history family significant 1
+history significant family 0
+history family coronary 0
+history coronary family 0
+family history coronary 7
+family coronary history 0
+coronary history family 0
+coronary family history 0
+maternal mother 4
+mother maternal 3
+report old year 1
+report year old 7
+old report year 0
+old year report 0
+year report old 0
+year old report 0
+heart diabetes 2
+diabetes heart 5
+ages two 0
+two ages 9
+dm died 0
+died dm 7
+old female 7
+female old 1
+healthy sons 0
+sons healthy 7
+disease diabetes 2
+diabetes disease 5
+artery father coronary 0
+artery coronary father 0
+father artery coronary 0
+father coronary artery 4
+coronary artery father 3
+coronary father artery 0
+siblings brother 7
+brother siblings 0
+sample year 9
+year sample 0
+daughter month 2
+month daughter 5
+grandmother associated 2
+associated grandmother 7
+artery disease history 0
+artery history disease 0
+disease artery history 0
+disease history artery 0
+history artery disease 7
+history disease artery 0
+sister breast cancer 7
+sister cancer breast 2
+breast sister cancer 0
+breast cancer sister 0
+cancer sister breast 0
+cancer breast sister 0
+ca died 0
+died ca 7
+problems father 1
+father problems 6
+grandmother diabetes 3
+diabetes grandmother 4
+two family 0
+family two 7
+old month 0
+month old 9
+subjective brings 6
+brings subjective 0
+patient grandfather 4
+grandfather patient 2
+abuse history 4
+history abuse 3
+child well check mother 0
+child well mother check 0
+child check well mother 0
+child check mother well 0
+child mother well check 0
+child mother check well 0
+well child check mother 2
+well child mother check 0
+well check child mother 0
+well check mother child 2
+well mother child check 0
+well mother check child 0
+check child well mother 0
+check child mother well 0
+check well child mother 0
+check well mother child 0
+check mother child well 0
+check mother well child 0
+mother child well check 0
+mother child check well 0
+mother well child check 6
+mother well check child 0
+mother check child well 0
+mother check well child 0
+med description 6
+description med 0
+med name gen 0
+med gen name 0
+name med gen 0
+name gen med 6
+gen med name 0
+gen name med 0
+sisters two 2
+two sisters 6
+old patient year 0
+old year patient 0
+patient old year 0
+patient year old 6
+year old patient 2
+year patient old 0
+side family 7
+family side 3
+father side 6
+side father 1
+age medical family history 0
+age medical history family 0
+age family medical history 0
+age family history medical 0
+age history medical family 0
+age history family medical 0
+medical age family history 0
+medical age history family 0
+medical family age history 0
+medical family history age 0
+medical history age family 0
+medical history family age 1
+family age medical history 0
+family age history medical 0
+family medical age history 4
+family medical history age 5
+family history age medical 0
+family history medical age 0
+history age medical family 0
+history age family medical 0
+history medical age family 0
+history medical family age 0
+history family age medical 0
+history family medical age 0
+subjective brings transcription 0
+subjective transcription brings 0
+brings subjective transcription 0
+brings transcription subjective 0
+transcription subjective brings 6
+transcription brings subjective 0
+prostate cancer 6
+cancer prostate 0
+stroke died mother 0
+stroke mother died 2
+died stroke mother 0
+died mother stroke 0
+mother stroke died 2
+mother died stroke 4
+well check mother 2
+well mother check 0
+check well mother 0
+check mother well 0
+mother well check 6
+mother check well 0
+hypertension mother 2
+mother hypertension 4
+hypertension depression mother 0
+hypertension mother depression 2
+depression hypertension mother 0
+depression mother hypertension 0
+mother hypertension depression 4
+mother depression hypertension 0
+past medical 6
+medical past 0
+history died cancer mother 0
+history died mother cancer 0
+history cancer died mother 0
+history cancer mother died 0
+history mother died cancer 4
+history mother cancer died 4
+died history cancer mother 0
+died history mother cancer 0
+died cancer history mother 0
+died cancer mother history 0
+died mother history cancer 0
+died mother cancer history 0
+cancer history died mother 0
+cancer history mother died 0
+cancer died history mother 0
+cancer died mother history 0
+cancer mother history died 0
+cancer mother died history 0
+mother history died cancer 0
+mother history cancer died 0
+mother died history cancer 0
+mother died cancer history 0
+mother cancer history died 0
+mother cancer died history 0
+subjective report patient 0
+subjective patient report 0
+report subjective patient 6
+report patient subjective 0
+patient subjective report 0
+patient report subjective 0
+brings patient 6
+patient brings 0
+medical patient family history 1
+medical patient history family 0
+medical family patient history 0
+medical family history patient 0
+medical history patient family 1
+medical history family patient 0
+patient medical family history 0
+patient medical history family 0
+patient family medical history 1
+patient family history medical 0
+patient history medical family 0
+patient history family medical 0
+family medical patient history 3
+family medical history patient 6
+family patient medical history 1
+family patient history medical 0
+family history medical patient 0
+family history patient medical 1
+history medical patient family 0
+history medical family patient 0
+history patient medical family 0
+history patient family medical 1
+history family medical patient 0
+history family patient medical 0
+lives daughter 7
+daughter lives 0
+description gen 0
+gen description 6
+report brings patient 6
+report patient brings 0
+brings report patient 0
+brings patient report 0
+patient report brings 0
+patient brings report 0
+subjective brings patient 6
+subjective patient brings 0
+brings subjective patient 0
+brings patient subjective 0
+patient subjective brings 0
+patient brings subjective 0
+type diabetes 8
+diabetes type 2
+brings patient today 6
+brings today patient 0
+patient brings today 0
+patient today brings 0
+today brings patient 0
+today patient brings 0
+subjective transcription report brings 0
+subjective transcription brings report 0
+subjective report transcription brings 0
+subjective report brings transcription 0
+subjective brings transcription report 0
+subjective brings report transcription 0
+transcription subjective report brings 0
+transcription subjective brings report 0
+transcription report subjective brings 6
+transcription report brings subjective 0
+transcription brings subjective report 0
+transcription brings report subjective 0
+report subjective transcription brings 0
+report subjective brings transcription 0
+report transcription subjective brings 0
+report transcription brings subjective 0
+report brings subjective transcription 0
+report brings transcription subjective 0
+brings subjective transcription report 0
+brings subjective report transcription 0
+brings transcription subjective report 0
+brings transcription report subjective 0
+brings report subjective transcription 0
+brings report transcription subjective 0
+healthy mother 2
+mother healthy 4
+med description name 0
+med name description 0
+description med name 0
+description name med 0
+name med description 6
+name description med 0
+brings today 6
+today brings 0
+healthy old 2
+old healthy 6
+associated mother 6
+mother associated 0
+consent technique informed description 0
+consent technique description informed 0
+consent informed technique description 0
+consent informed description technique 0
+consent description technique informed 0
+consent description informed technique 0
+technique consent informed description 0
+technique consent description informed 0
+technique informed consent description 0
+technique informed description consent 0
+technique description consent informed 0
+technique description informed consent 0
+informed consent technique description 0
+informed consent description technique 0
+informed technique consent description 0
+informed technique description consent 0
+informed description consent technique 0
+informed description technique consent 0
+description consent technique informed 0
+description consent informed technique 0
+description technique consent informed 0
+description technique informed consent 6
+description informed consent technique 0
+description informed technique consent 0
+report brings transcription 0
+report transcription brings 0
+brings report transcription 0
+brings transcription report 0
+transcription report brings 6
+transcription brings report 0
+pregnancy mother 3
+mother pregnancy 4
+medical patient family 1
+medical family patient 0
+patient medical family 0
+patient family medical 1
+family medical patient 6
+family patient medical 1
+currently mother 4
+mother currently 3
+med description gen 0
+med gen description 0
+description med gen 0
+description gen med 0
+gen med description 6
+gen description med 0
+also sister 2
+sister also 4
+white male mother 8
+white mother male 0
+male white mother 0
+male mother white 0
+mother white male 0
+mother male white 0
+also father 1
+father also 7
+med name 0
+name med 6
+subjective report patient brings 0
+subjective report brings patient 0
+subjective patient report brings 0
+subjective patient brings report 0
+subjective brings report patient 0
+subjective brings patient report 0
+report subjective patient brings 0
+report subjective brings patient 6
+report patient subjective brings 0
+report patient brings subjective 0
+report brings subjective patient 0
+report brings patient subjective 0
+patient subjective report brings 0
+patient subjective brings report 0
+patient report subjective brings 0
+patient report brings subjective 0
+patient brings subjective report 0
+patient brings report subjective 0
+brings subjective report patient 0
+brings subjective patient report 0
+brings report subjective patient 0
+brings report patient subjective 0
+brings patient subjective report 0
+brings patient report subjective 0
+home nursing 0
+nursing home 8
+well check child 2
+well child check 8
+check well child 0
+check child well 0
+child well check 0
+child check well 0
+breast cancer two 2
+breast two cancer 0
+cancer breast two 0
+cancer two breast 2
+two breast cancer 6
+two cancer breast 0
+grandmother paternal 0
+paternal grandmother 7
+check mother 2
+mother check 6
+description gen name 0
+description name gen 0
+gen description name 0
+gen name description 0
+name description gen 0
+name gen description 6
+father relationship 3
+relationship father 3
+old alive 6
+alive old 0
+plan mother 6
+mother plan 0
+technique description 0
+description technique 6
+delivery mother 6
+mother delivery 0
+brings transcription 0
+transcription brings 6
+disease brother 3
+brother disease 3
+heart disease history 0
+heart history disease 0
+disease heart history 0
+disease history heart 0
+history heart disease 6
+history disease heart 0
+mi age father fhx died 0
+mi age father died fhx 0
+mi age fhx father died 0
+mi age fhx died father 0
+mi age died father fhx 0
+mi age died fhx father 0
+mi father age fhx died 0
+mi father age died fhx 0
+mi father fhx age died 0
+mi father fhx died age 0
+mi father died age fhx 0
+mi father died fhx age 0
+mi fhx age father died 0
+mi fhx age died father 0
+mi fhx father age died 0
+mi fhx father died age 0
+mi fhx died age father 0
+mi fhx died father age 0
+mi died age father fhx 0
+mi died age fhx father 0
+mi died father age fhx 0
+mi died father fhx age 0
+mi died fhx age father 0
+mi died fhx father age 0
+age mi father fhx died 0
+age mi father died fhx 0
+age mi fhx father died 0
+age mi fhx died father 0
+age mi died father fhx 0
+age mi died fhx father 0
+age father mi fhx died 0
+age father mi died fhx 0
+age father fhx mi died 0
+age father fhx died mi 0
+age father died mi fhx 0
+age father died fhx mi 0
+age fhx mi father died 0
+age fhx mi died father 0
+age fhx father mi died 0
+age fhx father died mi 0
+age fhx died mi father 0
+age fhx died father mi 0
+age died mi father fhx 0
+age died mi fhx father 0
+age died father mi fhx 0
+age died father fhx mi 0
+age died fhx mi father 0
+age died fhx father mi 0
+father mi age fhx died 0
+father mi age died fhx 0
+father mi fhx age died 0
+father mi fhx died age 0
+father mi died age fhx 0
+father mi died fhx age 0
+father age mi fhx died 0
+father age mi died fhx 0
+father age fhx mi died 0
+father age fhx died mi 0
+father age died mi fhx 0
+father age died fhx mi 0
+father fhx mi age died 0
+father fhx mi died age 0
+father fhx age mi died 0
+father fhx age died mi 0
+father fhx died mi age 0
+father fhx died age mi 0
+father died mi age fhx 0
+father died mi fhx age 0
+father died age mi fhx 0
+father died age fhx mi 0
+father died fhx mi age 0
+father died fhx age mi 0
+fhx mi age father died 0
+fhx mi age died father 0
+fhx mi father age died 0
+fhx mi father died age 0
+fhx mi died age father 0
+fhx mi died father age 0
+fhx age mi father died 0
+fhx age mi died father 0
+fhx age father mi died 0
+fhx age father died mi 0
+fhx age died mi father 0
+fhx age died father mi 0
+fhx father mi age died 0
+fhx father mi died age 0
+fhx father age mi died 0
+fhx father age died mi 0
+fhx father died mi age 4
+fhx father died age mi 0
+fhx died mi age father 2
+fhx died mi father age 0
+fhx died age mi father 0
+fhx died age father mi 0
+fhx died father mi age 0
+fhx died father age mi 0
+died mi age father fhx 0
+died mi age fhx father 0
+died mi father age fhx 0
+died mi father fhx age 0
+died mi fhx age father 0
+died mi fhx father age 0
+died age mi father fhx 0
+died age mi fhx father 0
+died age father mi fhx 0
+died age father fhx mi 0
+died age fhx mi father 0
+died age fhx father mi 0
+died father mi age fhx 0
+died father mi fhx age 0
+died father age mi fhx 0
+died father age fhx mi 0
+died father fhx mi age 0
+died father fhx age mi 0
+died fhx mi age father 0
+died fhx mi father age 0
+died fhx age mi father 0
+died fhx age father mi 0
+died fhx father mi age 0
+died fhx father age mi 0
+delivery mother vaginal 0
+delivery vaginal mother 0
+mother delivery vaginal 0
+mother vaginal delivery 0
+vaginal delivery mother 6
+vaginal mother delivery 0
+colon family 0
+family colon 6
+unknown father 0
+father unknown 6
+name gen 6
+gen name 0
+sons years 6
+years sons 0
+consent technique description 0
+consent description technique 0
+technique consent description 0
+technique description consent 0
+description consent technique 0
+description technique consent 6
+consent informed description 0
+consent description informed 0
+informed consent description 0
+informed description consent 0
+description consent informed 0
+description informed consent 6
+good health 6
+health good 0
+mi age father died 0
+mi age died father 0
+mi father age died 0
+mi father died age 0
+mi died age father 0
+mi died father age 0
+age mi father died 0
+age mi died father 0
+age father mi died 0
+age father died mi 0
+age died mi father 0
+age died father mi 0
+father mi age died 0
+father mi died age 0
+father age mi died 0
+father age died mi 0
+father died mi age 4
+father died age mi 0
+died mi age father 2
+died mi father age 0
+died age mi father 0
+died age father mi 0
+died father mi age 0
+died father age mi 0
+white male year 0
+white year male 0
+male white year 0
+male year white 0
+year white male 6
+year male white 0
+disorder mother 3
+mother disorder 5
+type father 0
+father type 6
+mother vaginal 0
+vaginal mother 6
+mother check child 0
+mother child check 6
+check mother child 2
+check child mother 0
+child mother check 0
+child check mother 2
+subjective patient 6
+patient subjective 0
+white male old year 0
+white male year old 0
+white old male year 0
+white old year male 0
+white year male old 0
+white year old male 0
+male white old year 0
+male white year old 0
+male old white year 0
+male old year white 0
+male year white old 0
+male year old white 0
+old white male year 0
+old white year male 0
+old male white year 0
+old male year white 0
+old year white male 0
+old year male white 0
+year white male old 0
+year white old male 0
+year male white old 0
+year male old white 0
+year old white male 6
+year old male white 0
+coronary mother 0
+mother coronary 6
+maternal diabetes 3
+diabetes maternal 5
+day next 0
+next day 6
+informed description 0
+description informed 6
+brothers one 6
+one brothers 0
+delivery vaginal 0
+vaginal delivery 6
+subjective brings report 0
+subjective report brings 0
+brings subjective report 0
+brings report subjective 0
+report subjective brings 6
+report brings subjective 0
+alzheimer disease 6
+disease alzheimer 0
+check child 2
+child check 8
+report brings 6
+brings report 0
+age medical 0
+medical age 6
+mi age father 2
+mi father age 0
+age mi father 0
+age father mi 0
+father mi age 4
+father age mi 0
+father deceased 6
+deceased father 0
+patient history lives social 0
+patient history social lives 0
+patient lives history social 0
+patient lives social history 0
+patient social history lives 0
+patient social lives history 0
+history patient lives social 0
+history patient social lives 0
+history lives patient social 0
+history lives social patient 0
+history social patient lives 0
+history social lives patient 0
+lives patient history social 0
+lives patient social history 0
+lives history patient social 0
+lives history social patient 0
+lives social patient history 0
+lives social history patient 0
+social patient history lives 0
+social patient lives history 0
+social history patient lives 6
+social history lives patient 2
+social lives patient history 0
+social lives history patient 0
+patient mom today 0
+patient today mom 2
+mom patient today 4
+mom today patient 0
+today patient mom 0
+today mom patient 0
+breast two 2
+two breast 6
+med gen 0
+gen med 6
+alive mother 0
+mother alive 6
+father age mi fhx 0
+father age fhx mi 0
+father mi age fhx 0
+father mi fhx age 0
+father fhx age mi 0
+father fhx mi age 0
+age father mi fhx 0
+age father fhx mi 0
+age mi father fhx 0
+age mi fhx father 0
+age fhx father mi 0
+age fhx mi father 0
+mi father age fhx 0
+mi father fhx age 0
+mi age father fhx 0
+mi age fhx father 0
+mi fhx father age 0
+mi fhx age father 0
+fhx father age mi 0
+fhx father mi age 4
+fhx age father mi 0
+fhx age mi father 0
+fhx mi father age 0
+fhx mi age father 2
+age brother years 0
+age years brother 0
+brother age years 3
+brother years age 5
+years age brother 1
+years brother age 0
+age accident 4
+accident age 2
+age medical history 0
+age history medical 0
+medical age history 4
+medical history age 6
+history age medical 0
+history medical age 0
+family social 6
+social family 0
+died history cancer family mother 0
+died history cancer mother family 0
+died history family cancer mother 0
+died history family mother cancer 0
+died history mother cancer family 0
+died history mother family cancer 0
+died cancer history family mother 0
+died cancer history mother family 0
+died cancer family history mother 0
+died cancer family mother history 0
+died cancer mother history family 0
+died cancer mother family history 0
+died family history cancer mother 0
+died family history mother cancer 0
+died family cancer history mother 0
+died family cancer mother history 0
+died family mother history cancer 0
+died family mother cancer history 0
+died mother history cancer family 0
+died mother history family cancer 0
+died mother cancer history family 0
+died mother cancer family history 0
+died mother family history cancer 0
+died mother family cancer history 0
+history died cancer family mother 0
+history died cancer mother family 0
+history died family cancer mother 0
+history died family mother cancer 0
+history died mother cancer family 0
+history died mother family cancer 0
+history cancer died family mother 0
+history cancer died mother family 0
+history cancer family died mother 0
+history cancer family mother died 0
+history cancer mother died family 0
+history cancer mother family died 0
+history family died cancer mother 0
+history family died mother cancer 0
+history family cancer died mother 0
+history family cancer mother died 0
+history family mother died cancer 0
+history family mother cancer died 0
+history mother died cancer family 0
+history mother died family cancer 0
+history mother cancer died family 0
+history mother cancer family died 0
+history mother family died cancer 0
+history mother family cancer died 0
+cancer died history family mother 0
+cancer died history mother family 0
+cancer died family history mother 0
+cancer died family mother history 0
+cancer died mother history family 0
+cancer died mother family history 0
+cancer history died family mother 0
+cancer history died mother family 0
+cancer history family died mother 0
+cancer history family mother died 0
+cancer history mother died family 0
+cancer history mother family died 0
+cancer family died history mother 0
+cancer family died mother history 0
+cancer family history died mother 0
+cancer family history mother died 0
+cancer family mother died history 0
+cancer family mother history died 0
+cancer mother died history family 0
+cancer mother died family history 0
+cancer mother history died family 0
+cancer mother history family died 0
+cancer mother family died history 0
+cancer mother family history died 0
+family died history cancer mother 0
+family died history mother cancer 0
+family died cancer history mother 0
+family died cancer mother history 0
+family died mother history cancer 0
+family died mother cancer history 0
+family history died cancer mother 0
+family history died mother cancer 0
+family history cancer died mother 0
+family history cancer mother died 0
+family history mother died cancer 4
+family history mother cancer died 4
+family cancer died history mother 0
+family cancer died mother history 0
+family cancer history died mother 0
+family cancer history mother died 0
+family cancer mother died history 0
+family cancer mother history died 0
+family mother died history cancer 0
+family mother died cancer history 0
+family mother history died cancer 0
+family mother history cancer died 0
+family mother cancer died history 0
+family mother cancer history died 0
+mother died history cancer family 0
+mother died history family cancer 0
+mother died cancer history family 0
+mother died cancer family history 0
+mother died family history cancer 0
+mother died family cancer history 0
+mother history died cancer family 0
+mother history died family cancer 0
+mother history cancer died family 0
+mother history cancer family died 0
+mother history family died cancer 0
+mother history family cancer died 0
+mother cancer died history family 0
+mother cancer died family history 0
+mother cancer history died family 0
+mother cancer history family died 0
+mother cancer family died history 0
+mother cancer family history died 0
+mother family died history cancer 0
+mother family died cancer history 0
+mother family history died cancer 0
+mother family history cancer died 0
+mother family cancer died history 0
+mother family cancer history died 0
+lives patient history 0
+lives history patient 0
+patient lives history 0
+patient history lives 0
+history lives patient 2
+history patient lives 6
+social family history 0
+social history family 0
+family social history 6
+family history social 0
+history social family 0
+history family social 0
+lives patient social 0
+lives social patient 0
+patient lives social 0
+patient social lives 0
+social lives patient 2
+social patient lives 6
+technique informed description 0
+technique description informed 0
+informed technique description 0
+informed description technique 0
+description technique informed 6
+description informed technique 0
+age medical family 0
+age family medical 0
+medical age family 0
+medical family age 1
+family age medical 0
+family medical age 5
+med description name gen 0
+med description gen name 0
+med name description gen 0
+med name gen description 0
+med gen description name 0
+med gen name description 0
+description med name gen 0
+description med gen name 0
+description name med gen 0
+description name gen med 0
+description gen med name 0
+description gen name med 0
+name med description gen 0
+name med gen description 0
+name description med gen 0
+name description gen med 0
+name gen med description 6
+name gen description med 0
+gen med description name 0
+gen med name description 0
+gen description med name 0
+gen description name med 0
+gen name med description 0
+gen name description med 0
+states daughter 3
+daughter states 2
+sister age brother 0
+sister brother age 0
+age sister brother 0
+age brother sister 0
+brother sister age 5
+brother age sister 5
+also father history 0
+also history father 0
+father also history 2
+father history also 0
+history also father 0
+history father also 3
+stroke hypertension 5
+hypertension stroke 0
+two daughters 5
+daughters two 0
+sister years 5
+years sister 3
+kidney mother 5
+mother kidney 4
+ear pain mom 3
+ear mom pain 0
+pain ear mom 0
+pain mom ear 0
+mom ear pain 2
+mom pain ear 0
+brother coronary 2
+coronary brother 3
+siblings age brother 0
+siblings brother age 5
+age siblings brother 0
+age brother siblings 0
+brother siblings age 0
+brother age siblings 0
+complaining ear 5
+ear complaining 0
+sample general 5
+general sample 4
+old female year 1
+old year female 0
+female old year 0
+female year old 1
+year old female 5
+year female old 1
+father renal 5
+renal father 0
+patient psychiatric 2
+psychiatric patient 3
+type general 5
+general type 0
+siblings brother two 0
+siblings two brother 2
+brother siblings two 0
+brother two siblings 0
+two siblings brother 3
+two brother siblings 0
+type name general 2
+type general name 4
+name type general 0
+name general type 0
+general type name 0
+general name type 0
+complaining pain 5
+pain complaining 0
+diagnosed cancer 4
+cancer diagnosed 1
+lives father 5
+father lives 0
+ear pain 8
+pain ear 0
+htn father 0
+father htn 5
+ear mother 0
+mother ear 5
+states patient 2
+patient states 3
+grandmother father 3
+father grandmother 2
+sample type general 5
+sample general type 0
+type sample general 2
+type general sample 4
+general sample type 0
+general type sample 0
+positive disease 5
+disease positive 0
+patient reports 5
+reports patient 3
+colon cancer died 0
+colon died cancer 0
+cancer colon died 0
+cancer died colon 0
+died colon cancer 7
+died cancer colon 0
+name general 2
+general name 4
+lung history 0
+history lung 5
+htn father fhx 0
+htn fhx father 0
+father htn fhx 0
+father fhx htn 0
+fhx htn father 0
+fhx father htn 5
+positive family 0
+family positive 5
+aunt maternal 0
+maternal aunt 5
+grandmother died 5
+died grandmother 0
+age dm mother 0
+age mother dm 0
+dm age mother 0
+dm mother age 0
+mother age dm 2
+mother dm age 3
+healthy asthma 5
+asthma healthy 2
+siblings sister 5
+sister siblings 0
+positive father 5
+father positive 0
+per mother 5
+mother per 0
+siblings age 5
+age siblings 0
+artery brother 3
+brother artery 2
+pain mom 3
+mom pain 2
+female year 1
+year female 5
+currently years 3
+years currently 2
+colon died 0
+died colon 7
+artery disease brother 3
+artery brother disease 0
+disease artery brother 0
+disease brother artery 0
+brother artery disease 2
+brother disease artery 0
+siblings sister brother 0
+siblings brother sister 5
+sister siblings brother 0
+sister brother siblings 0
+brother siblings sister 0
+brother sister siblings 0
+brought mother 8
+mother brought 0
+medicine general 1
+general medicine 5
+age two 0
+two age 5
+heart brother 0
+brother heart 7
+medication father 2
+father medication 3
+complaining ear pain 5
+complaining pain ear 0
+ear complaining pain 0
+ear pain complaining 0
+pain complaining ear 0
+pain ear complaining 0
+ages two daughters 0
+ages daughters two 0
+two ages daughters 0
+two daughters ages 5
+daughters ages two 0
+daughters two ages 0
+currently lives 4
+lives currently 1
+positive history 0
+history positive 5
+office mother 3
+mother office 2
+ages daughters 0
+daughters ages 5
+artery father disease 0
+artery disease father 3
+father artery disease 2
+father disease artery 0
+disease artery father 0
+disease father artery 0
+failure kidney 2
+kidney failure 5
+psychiatric family 3
+family psychiatric 3
+complaining mother 0
+mother complaining 5
+positive father disease 0
+positive disease father 5
+father positive disease 0
+father disease positive 0
+disease positive father 0
+disease father positive 0
+age dm 2
+dm age 3
+siblings two 2
+two siblings 3
+healthy age 1
+age healthy 4
+concerns mother 0
+mother concerns 7
+artery coronary disease brother 0
+artery coronary brother disease 0
+artery disease coronary brother 0
+artery disease brother coronary 0
+artery brother coronary disease 0
+artery brother disease coronary 0
+coronary artery disease brother 3
+coronary artery brother disease 0
+coronary disease artery brother 0
+coronary disease brother artery 0
+coronary brother artery disease 0
+coronary brother disease artery 0
+disease artery coronary brother 0
+disease artery brother coronary 0
+disease coronary artery brother 0
+disease coronary brother artery 0
+disease brother artery coronary 0
+disease brother coronary artery 0
+brother artery coronary disease 0
+brother artery disease coronary 0
+brother coronary artery disease 2
+brother coronary disease artery 0
+brother disease artery coronary 0
+brother disease coronary artery 0
+ear mom 3
+mom ear 4
+sample type name general 2
+sample type general name 4
+sample name type general 0
+sample name general type 0
+sample general type name 0
+sample general name type 0
+type sample name general 2
+type sample general name 0
+type name sample general 0
+type name general sample 0
+type general sample name 4
+type general name sample 2
+name sample type general 0
+name sample general type 0
+name type sample general 0
+name type general sample 0
+name general sample type 0
+name general type sample 0
+general sample type name 0
+general sample name type 0
+general type sample name 0
+general type name sample 0
+general name sample type 0
+general name type sample 0
+grandmother cancer 5
+cancer grandmother 0
+tumor brain 0
+brain tumor 5
+siblings age two 0
+siblings two age 2
+age siblings two 0
+age two siblings 0
+two siblings age 3
+two age siblings 0
+myocardial infarction 5
+infarction myocardial 0
+age brother two 0
+age two brother 0
+brother age two 0
+brother two age 0
+two age brother 0
+two brother age 5
+lives family 2
+family lives 3
+father disease coronary 0
+father coronary disease 2
+disease father coronary 0
+disease coronary father 0
+coronary father disease 0
+coronary disease father 3
+several mom 0
+mom several 5
+discussed mother 6
+mother discussed 0
+relationship mother 6
+mother relationship 0
+years one 0
+one years 5
+father side family 5
+father family side 0
+side father family 0
+side family father 1
+family father side 2
+family side father 0
+associated maternal 5
+maternal associated 3
+chart mother 5
+mother chart 0
+psychiatric history 5
+history psychiatric 0
+disease brother coronary 0
+disease coronary brother 0
+brother disease coronary 0
+brother coronary disease 2
+coronary disease brother 3
+coronary brother disease 0
+sample name general 2
+sample general name 4
+name sample general 0
+name general sample 0
+general sample name 4
+general name sample 2
+positive family history 0
+positive history family 0
+family positive history 0
+family history positive 5
+history positive family 0
+history family positive 0
+siblings age brother two 0
+siblings age two brother 0
+siblings brother age two 0
+siblings brother two age 0
+siblings two age brother 0
+siblings two brother age 2
+age siblings brother two 0
+age siblings two brother 0
+age brother siblings two 0
+age brother two siblings 0
+age two siblings brother 0
+age two brother siblings 0
+brother siblings age two 0
+brother siblings two age 0
+brother age siblings two 0
+brother age two siblings 0
+brother two siblings age 0
+brother two age siblings 0
+two siblings age brother 0
+two siblings brother age 3
+two age siblings brother 0
+two age brother siblings 0
+two brother siblings age 0
+two brother age siblings 0
+report old patient 0
+report patient old 3
+old report patient 0
+old patient report 0
+patient report old 2
+patient old report 0
+artery brother coronary 0
+artery coronary brother 0
+brother artery coronary 0
+brother coronary artery 2
+coronary artery brother 3
+coronary brother artery 0
+abuse alcohol 1
+alcohol abuse 4
+currently old years 0
+currently years old 3
+old currently years 0
+old years currently 0
+years currently old 0
+years old currently 2
+good mother 2
+mother good 5
+sisters one 4
+one sisters 1
+artery father disease coronary 0
+artery father coronary disease 0
+artery disease father coronary 0
+artery disease coronary father 0
+artery coronary father disease 0
+artery coronary disease father 0
+father artery disease coronary 0
+father artery coronary disease 0
+father disease artery coronary 0
+father disease coronary artery 0
+father coronary artery disease 2
+father coronary disease artery 0
+disease artery father coronary 0
+disease artery coronary father 0
+disease father artery coronary 0
+disease father coronary artery 0
+disease coronary artery father 0
+disease coronary father artery 0
+coronary artery father disease 0
+coronary artery disease father 3
+coronary father artery disease 0
+coronary father disease artery 0
+coronary disease artery father 0
+coronary disease father artery 0
+family reports history 0
+family history reports 3
+reports family history 2
+reports history family 0
+history family reports 0
+history reports family 1
+symptoms similar 2
+similar symptoms 3
+sister mom 2
+mom sister 3
+positive disease history 0
+positive history disease 0
+disease positive history 0
+disease history positive 0
+history positive disease 5
+history disease positive 0

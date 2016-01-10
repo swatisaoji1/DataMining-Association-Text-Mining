@@ -1,0 +1,35 @@
+breast cancer 27
+died cancer 23
+colon cancer 16
+died mi 15
+mother depression 9
+mi age 8
+died mi age 8
+hypertension depression 8
+died ca 7
+father ca 7
+died colon cancer 7
+sister breast cancer 7
+cancer breast 6
+mother mi 6
+mother died mi 6
+father mi 6
+father died mi 6
+mother died cancer 6
+prostate cancer 6
+father mi age 4
+diagnosed cancer 4
+cancer died 4
+mother hypertension depression 4
+mother cancer died 4
+depression mother 3
+mi mother 2
+sister cancer breast 2
+mi age father 2
+died mi father 2
+mi father 2
+hypertension mother depression 2
+died mi mother 2
+age mi 1
+cancer diagnosed 1
+age died mi 1

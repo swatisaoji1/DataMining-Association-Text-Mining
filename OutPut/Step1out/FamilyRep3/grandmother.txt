@@ -1,0 +1,10 @@
+maternal grandmother 8
+associated grandmother 7
+paternal grandmother 7
+grandmother mother 6
+mother grandmother 5
+grandmother died 5
+grandmother maternal 4
+grandmother father 3
+father grandmother 2
+grandmother associated 2

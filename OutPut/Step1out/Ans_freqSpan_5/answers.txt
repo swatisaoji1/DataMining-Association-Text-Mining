@@ -1,0 +1,32 @@
+In first 100 word list: 
+There are 33 associations with at least one family member.
+There are 9 associations with at least one Disease.
+There are 31 associations with at least one family member and NO disease.
+There are 2 associations both family member and disease.
+There are 60 associations with neither family nor disease.
+====================================================================
+
+In first 200 word list: 
+There are 59 associations with at least one family member.
+There are 13 associations with at least one Disease.
+There are 57 associations with at least one family member and NO disease.
+There are 2 associations both family member and disease.
+There are 130 associations with neither family nor disease.
+====================================================================
+
+In first 500 word list: 
+There are 171 associations with at least one family member.
+There are 44 associations with at least one Disease.
+There are 154 associations with at least one family member and NO disease.
+There are 17 associations both family member and disease.
+There are 302 associations with neither family nor disease.
+====================================================================
+
+The total associations studied in 5 spanned sets are 871 : The pattern :
+.There are 370 associations with at least one family member.
+There are 88 associations with at least one Disease.
+There are 327 associations with at least one family member and NO disease.
+There are 43 associations both family member and disease.
+There are 456 associations with neither family nor disease.
+====================================================================
+

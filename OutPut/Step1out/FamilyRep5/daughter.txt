@@ -1,0 +1,11 @@
+patient daughter 21
+one daughter 11
+old daughter 7
+lives daughter 7
+daughter patient 5
+daughter age 5
+month daughter 5
+age daughter 5
+states daughter 3
+daughter month 2
+daughter states 2

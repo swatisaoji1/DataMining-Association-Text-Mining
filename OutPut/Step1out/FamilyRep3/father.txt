@@ -1,0 +1,51 @@
+history father 62
+family history father 52
+father died 51
+father age 44
+fhx father 20
+history father died 14
+fhx father died 10
+medical father 8
+family medical father 8
+diabetes father 8
+father history 8
+medical history father 8
+father ca 7
+father also 7
+age father 7
+father diabetes 6
+died father 6
+father side 6
+father mi 6
+father died mi 6
+father deceased 6
+father unknown 6
+father htn 5
+father renal 5
+fhx father htn 5
+father coronary artery 4
+father artery 4
+father mi age 4
+history died father 4
+history family father 4
+father coronary 4
+family father history 4
+medical father history 4
+artery disease father 3
+coronary disease father 3
+coronary father 3
+artery father 3
+coronary artery father 3
+grandmother father 3
+father medication 3
+father coronary disease 2
+mi age father 2
+died mi father 2
+fhx died father 2
+history father family 2
+father grandmother 2
+father artery disease 2
+medication father 2
+mi father 2
+side father 1
+also father 1

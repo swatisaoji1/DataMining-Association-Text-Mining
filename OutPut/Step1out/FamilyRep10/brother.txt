@@ -1,0 +1,76 @@
+brother age 22
+brother died 22
+brother years 14
+one brother 14
+brother died age 12
+patient brother 12
+history brother 10
+father brother 9
+two brother 9
+family history brother 8
+brother sister 7
+years brother 7
+brother cancer 7
+brother heart 7
+brother brain 7
+siblings brother 7
+two one brother 6
+social history patient brother 5
+two brother age 5
+history patient brother 5
+social patient brother 5
+brother sister age 5
+siblings brother age 5
+brother ago 5
+brother age sister 5
+patient brother age 5
+brother brain tumor 5
+history brother age 5
+brother diabetes 5
+social history brother 5
+social brother 5
+siblings brother sister 5
+history father brother 5
+history patient brother age 5
+brother tumor 5
+brother years age 5
+diabetes brother 4
+brother heart age 4
+died brother 4
+brother disease 3
+artery disease brother 3
+coronary artery brother 3
+lives brother 3
+coronary artery disease brother 3
+lives brother years 3
+coronary disease brother 3
+disease brother 3
+two siblings brother age 3
+artery brother 3
+brother age heart 3
+brother age years 3
+two siblings brother 3
+coronary brother 3
+age brother 3
+brother age history 2
+brother years lives 2
+siblings two brother 2
+brother coronary disease 2
+brother history 2
+brother patient 2
+brother coronary 2
+died brother age 2
+brother artery disease 2
+history age brother 2
+siblings two brother age 2
+brother artery 2
+brother patient age 2
+brother coronary artery disease 2
+brother coronary artery 2
+brother one 2
+history patient age brother 2
+brother lives years 2
+patient age brother 2
+brother age died 2
+brother lives 2
+years age brother 1

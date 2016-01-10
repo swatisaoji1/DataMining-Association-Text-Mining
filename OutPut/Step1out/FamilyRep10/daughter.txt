@@ -1,0 +1,28 @@
+patient daughter 21
+one daughter 11
+daughter home 8
+old daughter 7
+lives daughter 7
+year daughter 6
+daughter care 6
+breast daughter 5
+month daughter 5
+partner old daughter 5
+breast cancer daughter 5
+partner daughter 5
+cancer daughter 5
+daughter patient 5
+age daughter 5
+daughter age 5
+present daughter 4
+states daughter 3
+daughter cancer 3
+daughter breast cancer 2
+daughter present 2
+daughter states 2
+daughter month 2
+cancer daughter breast 2
+breast daughter cancer 2
+home daughter 2
+daughter breast 2
+daughter year 1

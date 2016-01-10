@@ -1,0 +1,1270 @@
+family history 120
+died age 66
+history patient 51
+history age 37
+family age 32
+years old 30
+family patient 29
+history died 29
+patient history 29
+family history age 29
+family history patient 29
+family died 27
+transcription sample report 25
+history family 25
+medical transcription sample report 25
+transcription report 25
+family history died 25
+medical transcription 25
+medical transcription report 25
+medical sample report 25
+transcription sample 25
+medical report 25
+sample report 25
+medical sample 25
+medical transcription sample 25
+history illness 22
+year old 22
+social history 22
+history disease 21
+medical patient 21
+history diabetes 20
+family diabetes 20
+history old 20
+died heart 20
+medical history 19
+patient family 19
+history family associated 18
+admits family associated 18
+patient admits 18
+family history disease 18
+family patient history 18
+family admits history 18
+family admits history associated 18
+family history admits 18
+history present illness 18
+history associated 18
+history admits family 18
+family admits associated 18
+admits family history associated 18
+admits history 18
+history admits family associated 18
+family disease 18
+family associated 18
+admits family history 18
+family admits 18
+admits history associated 18
+family history admits associated 18
+history admits 18
+admits family 18
+family history associated 18
+present illness 18
+admits associated 18
+family history diabetes 18
+patient family history 18
+history admits associated 18
+history present 18
+sample patient 17
+patient age 16
+history died age 16
+history patient family 16
+old male 16
+illness old 16
+fhx died 16
+history illness old 16
+history patient family associated 15
+history breast 15
+family history patient admits 15
+heart failure 15
+history patient associated 15
+family patient admits history associated 15
+family patient associated 15
+patient admits family associated 15
+patient family history associated 15
+family patient admits history 15
+died heart failure 15
+family patient admits 15
+patient admits family history 15
+family history patient admits associated 15
+died failure 15
+patient history associated 15
+history patient admits associated 15
+history patient admits family 15
+family breast 15
+patient admits associated 15
+history patient admits family associated 15
+patient admits family 15
+history patient admits 15
+patient admits family history associated 15
+family history patient associated 15
+patient admits history 15
+family patient admits associated 15
+patient family associated 15
+family patient history associated 15
+patient associated 15
+patient admits history associated 15
+two years 14
+description patient 14
+sample old 14
+history present old 14
+present illness old 14
+heart disease 14
+fhx died age 14
+family died age 14
+fhx age 14
+history present illness old 14
+old white 14
+patient lives 14
+present old 14
+sample name 13
+family history breast 13
+transcription sample subjective 13
+sample name description 13
+report patient 13
+transcription report subjective 13
+coronary artery 13
+sample description 13
+coronary disease 13
+name description 13
+sample subjective 13
+medical transcription subjective 13
+medical sample report subjective 13
+medical transcription report subjective 13
+medical transcription sample subjective 13
+transcription patient 13
+medical transcription patient 13
+transcription sample report subjective 13
+transcription report patient 13
+report subjective 13
+medical report subjective 13
+family hypertension 13
+transcription sample patient 13
+medical transcription sample patient 13
+medical transcription sample report subjective 13
+medical report patient 13
+transcription subjective 13
+history hypertension 13
+medical subjective 13
+medical sample subjective 13
+sample report subjective 13
+medical transcription report patient 13
+medical sample patient 13
+family history died age 12
+family medical 12
+white male 12
+history child 12
+family history stroke 12
+history years 12
+family stroke 12
+family medical history 12
+year old male 12
+brothers sisters 12
+year male 12
+history stroke 12
+family history hypertension 11
+social patient 11
+illness year 11
+present year 11
+history illness year 11
+artery disease 11
+family maternal 11
+history present year 11
+history present illness year 11
+social history patient 11
+ages years 11
+ages old 11
+coronary artery disease 11
+present illness year 11
+history year 11
+ages years old 11
+medical transcription sample report old 10
+present illness old white 10
+history present year old 10
+type sample name 10
+sample type description 10
+sample type 10
+type name 10
+present illness year old 10
+medical transcription report old 10
+illness white 10
+medical report old 10
+medical sample old 10
+transcription old 10
+type sample description 10
+history illness year old 10
+sample type name 10
+year white 10
+old white male 10
+transcription sample old 10
+sample type name description 10
+present year old 10
+present illness white 10
+type description 10
+family heart 10
+report old 10
+history present illness year old 10
+medical old 10
+present old white 10
+medical transcription sample old 10
+present white 10
+medical transcription old 10
+history heart 10
+two brothers 10
+patient today 10
+transcription sample report old 10
+type sample name description 10
+type sample 10
+two one 10
+type name description 10
+sample report old 10
+medical sample report old 10
+age heart 10
+well check 10
+family history heart 10
+year old white 10
+old well 10
+died years 10
+illness year old 10
+history year old 10
+transcription report old 10
+illness old white 10
+sample medical report 9
+sample medical transcription 9
+breast age 9
+name medical 9
+two sons 9
+died old 9
+name sample 9
+name transcription report 9
+description transcription report 9
+informed consent obtained 9
+description medical report 9
+informed obtained 9
+name report 9
+name medical transcription report 9
+description sample 9
+patient medical 9
+sample transcription report 9
+fhx htn 9
+history coronary 9
+month old 9
+name description transcription report 9
+name medical transcription 9
+description report 9
+name transcription 9
+two healthy 9
+name description sample 9
+description medical 9
+informed consent 9
+name medical report 9
+name description medical transcription 9
+years age 9
+description medical transcription 9
+history significant 9
+description transcription 9
+consent obtained 9
+history coronary artery 9
+patient year 9
+name description medical transcription report 9
+description medical transcription report 9
+sample medical transcription report 9
+sample year old 9
+sample medical 9
+patient old 9
+name description transcription 9
+died age heart 9
+sample transcription 9
+name description report 9
+sample year 9
+present patient 9
+name description medical report 9
+name description medical 9
+history artery 9
+two ages 9
+patient breast 9
+informed consent patient 8
+age stroke 8
+medical sample report today 8
+sample male 8
+social history lives 8
+well child 8
+medical transcription today 8
+history lives 8
+ear pain 8
+type diabetes 8
+died congestive failure 8
+transcription sample today 8
+age old 8
+present illness old male 8
+present male 8
+medical transcription report patient today 8
+medical report today 8
+family paternal 8
+medical patient today 8
+present year white 8
+informed patient 8
+social lives 8
+patient also 8
+technique informed consent obtained 8
+history patient age 8
+present old male 8
+technique informed 8
+one died 8
+technique informed consent obtained patient 8
+died congestive heart failure 8
+family significant 8
+technique consent patient 8
+consent patient 8
+obtained patient 8
+sample report today 8
+informed obtained patient 8
+technique obtained patient 8
+medical transcription sample today 8
+illness year white 8
+medical transcription report today 8
+medical history patient 8
+technique informed obtained 8
+present illness male 8
+patient years 8
+technique informed consent patient 8
+congestive failure 8
+sample old male 8
+died congestive 8
+description consent 8
+transcription sample report today 8
+child check 8
+technique consent obtained patient 8
+congestive heart failure 8
+present illness year white 8
+transcription report today 8
+history paternal 8
+died stroke 8
+technique informed obtained patient 8
+medical transcription patient today 8
+years ago 8
+transcription patient today 8
+family history paternal 8
+well child check 8
+report patient today 8
+died unknown 8
+technique patient 8
+congestive heart 8
+transcription today 8
+transcription report patient today 8
+technique consent 8
+nursing home 8
+medical report patient today 8
+illness year old white 8
+technique informed consent 8
+illness old male 8
+medical today 8
+informed consent obtained patient 8
+medical transcription sample report today 8
+technique consent obtained 8
+consent obtained patient 8
+technique obtained 8
+medical sample today 8
+technique informed patient 8
+illness male 8
+report today 8
+died congestive heart 8
+present illness year old white 8
+present year old white 8
+sample report year 7
+medical year 7
+present patient history 7
+medical report year old 7
+history coronary disease 7
+medical sample report year old 7
+medical transcription sample year old 7
+medical sample year old 7
+history artery disease 7
+type name medical 7
+type name description sample 7
+family history artery 7
+report year 7
+medical sample report year 7
+family coronary artery 7
+sample report year old 7
+died colon 7
+family coronary 7
+history present illness patient 7
+type description medical 7
+type name description medical 7
+two sons healthy 7
+died dm 7
+history illness patient 7
+transcription sample year 7
+medical transcription report year 7
+type name sample 7
+medical year old 7
+history present patient 7
+medical transcription year 7
+medical transcription year old 7
+name description old 7
+medical transcription sample year 7
+report year old 7
+transcription report year 7
+illness history 7
+name old 7
+present illness patient 7
+family history coronary artery 7
+family history coronary 7
+transcription sample year old 7
+history maternal 7
+medical transcription report year old 7
+illness patient history 7
+transcription year 7
+transcription sample report year 7
+patient maternal 7
+lives years 7
+old female 7
+present history 7
+transcription report year old 7
+present illness history 7
+medical transcription sample report year 7
+age years 7
+type description sample 7
+description old 7
+family two 7
+history coronary artery disease 7
+medical transcription sample report year old 7
+type medical 7
+medical report year 7
+medical sample year 7
+history patient year 7
+present illness patient history 7
+transcription year old 7
+illness patient 7
+family artery 7
+side family 7
+transcription sample report year old 7
+sons healthy 7
+description medical patient 6
+year white male 6
+good health 6
+sample name gen med description 6
+report subjective brings patient 6
+medical transcription report subjective patient 6
+medical subjective patient 6
+history deceased 6
+description informed patient 6
+transcription subjective brings today 6
+sample gen 6
+medical report subjective brings patient 6
+sample transcription patient 6
+next day 6
+transcription subjective patient 6
+medical age 6
+patient year old white 6
+transcription report brings today 6
+medical transcription subjective brings 6
+medical subjective brings patient 6
+description technique obtained patient 6
+fhx disease 6
+description technique informed consent obtained patient 6
+transcription report brings 6
+medical subjective brings today 6
+family history age stroke 6
+medical transcription report brings patient 6
+medical subjective today 6
+present illness white male 6
+family medical patient 6
+medical history age 6
+family age stroke 6
+sample gen description 6
+report brings patient 6
+description technique informed obtained patient 6
+description informed 6
+sample medical transcription patient 6
+subjective patient today 6
+present old white male 6
+history two 6
+transcription report brings patient today 6
+report brings today 6
+name gen med description 6
+description technique informed 6
+description obtained 6
+fhx old 6
+medical brings 6
+med description 6
+sample medical patient 6
+medical report subjective brings 6
+medical report subjective today 6
+description technique obtained 6
+description consent obtained patient 6
+illness year old male 6
+medical transcription report subjective today 6
+two breast 6
+medical report brings today 6
+sample med 6
+description medical transcription patient 6
+transcription brings 6
+present year old male 6
+family history type 6
+present illness old white male 6
+medical transcription brings patient today 6
+description technique patient 6
+transcription report brings patient 6
+report subjective brings patient today 6
+description technique consent obtained 6
+old alive 6
+alzheimer disease 6
+description informed obtained 6
+family history heart disease 6
+description technique informed consent obtained 6
+medical subjective brings patient today 6
+medical report brings patient today 6
+description informed consent patient 6
+family heart disease 6
+brings today 6
+medical subjective patient today 6
+present illness year male 6
+medical transcription report subjective brings patient 6
+history reports 6
+sample gen med description 6
+description technique informed consent patient 6
+subjective patient 6
+illness white male 6
+name med 6
+present illness year old male 6
+transcription report subjective brings 6
+medical report brings patient 6
+description informed consent obtained patient 6
+transcription brings patient 6
+family colon 6
+medical subjective brings 6
+name gen med 6
+history patient year old 6
+medical transcription brings today 6
+medical transcription subjective brings patient today 6
+medical transcription brings patient 6
+illness year male 6
+medical report subjective brings today 6
+patient year white 6
+description technique informed patient 6
+patient old white 6
+report brings 6
+transcription report subjective brings patient 6
+description consent patient 6
+transcription report subjective patient 6
+medical transcription report subjective brings 6
+medical report brings 6
+social patient lives 6
+sample gen med 6
+transcription subjective brings 6
+transcription subjective today 6
+history heart disease 6
+report brings patient today 6
+sample name med 6
+name med description 6
+patient history breast 6
+family type 6
+gen med description 6
+medical transcription report subjective brings today 6
+description technique consent patient 6
+transcription report subjective brings patient today 6
+history patient old 6
+medical transcription report brings today 6
+patient white 6
+subjective brings patient today 6
+description informed consent 6
+transcription brings today 6
+description obtained patient 6
+medical transcription report subjective patient today 6
+history type 6
+medical transcription subjective patient today 6
+medical transcription brings 6
+present white male 6
+patient year old 6
+sons years old 6
+illness old white male 6
+name gen 6
+age history 6
+old healthy 6
+description technique 6
+transcription report subjective brings today 6
+medical brings today 6
+gen description 6
+brothers one 6
+description technique consent 6
+sons old 6
+description technique informed consent 6
+sample name gen description 6
+medical brings patient 6
+sample name med description 6
+sample med description 6
+sample name gen 6
+description consent obtained 6
+medical transcription subjective patient 6
+report subjective patient 6
+transcription subjective patient today 6
+medical report subjective patient 6
+present year male 6
+medical transcription subjective brings today 6
+family social history 6
+transcription subjective brings patient 6
+family medical history patient 6
+two sisters 6
+report subjective brings today 6
+vaginal delivery 6
+description technique consent obtained patient 6
+transcription brings patient today 6
+brings patient 6
+died age old 6
+report subjective brings 6
+transcription report subjective today 6
+social history patient lives 6
+medical transcription report subjective brings patient today 6
+subjective brings today 6
+medical report subjective brings patient today 6
+family reports 6
+brings patient today 6
+description informed obtained patient 6
+subjective today 6
+history age stroke 6
+diabetes died 6
+history patient lives 6
+gen med 6
+sons years 6
+home way 6
+transcription subjective brings patient today 6
+description technique informed obtained 6
+sample name gen med 6
+report subjective today 6
+medical report subjective patient today 6
+disease patient 6
+medical transcription subjective today 6
+currently old 6
+family social 6
+past medical 6
+medical transcription report brings 6
+description informed consent obtained 6
+name gen description 6
+subjective brings 6
+medical brings patient today 6
+year old white male 6
+transcription report subjective patient today 6
+medical transcription subjective brings patient 6
+report subjective patient today 6
+description transcription patient 6
+medical transcription report brings patient today 6
+subjective brings patient 6
+present patient year 5
+year history 5
+old age 5
+family artery disease 5
+family also 5
+history present illness patient year 5
+patient admits maternal 5
+year old female 5
+patient medical history 5
+family coronary disease 5
+kidney failure 5
+present year history 5
+family history significant 5
+two age 5
+present illness patient year 5
+patient admits history maternal 5
+one two 5
+history medical 5
+family alzheimer disease 5
+family history alzheimer 5
+history positive disease 5
+admits associated maternal 5
+psychiatric history 5
+family history positive disease 5
+family medical history age 5
+history associated maternal 5
+family history positive 5
+medical years 5
+family history artery disease 5
+family history alzheimer disease 5
+history alzheimer 5
+two daughters 5
+positive disease 5
+family positive disease 5
+history patient maternal 5
+stroke hypertension 5
+history breast age 5
+admits history associated maternal 5
+healthy asthma 5
+admits history maternal 5
+history illness patient year 5
+family history coronary disease 5
+patient admits associated maternal 5
+history patient medical 5
+history lung 5
+patient associated maternal 5
+died old age 5
+complaining ear 5
+history patient admits associated maternal 5
+history admits associated maternal 5
+partner old 5
+admits maternal 5
+present illness year history 5
+patient history maternal 5
+associated maternal 5
+history pregnancy 5
+history patient associated maternal 5
+family positive 5
+history present patient year 5
+patient history associated maternal 5
+history admits maternal 5
+age breast 5
+problems well 5
+history also 5
+family breast age 5
+illness patient year history 5
+diabetes disease 5
+family alzheimer 5
+daughters ages 5
+sample general 5
+family coronary artery disease 5
+type general 5
+present patient year history 5
+history alzheimer disease 5
+age died 5
+history patient admits maternal 5
+family history two 5
+brain tumor 5
+general medicine 5
+family medical age 5
+illness patient year 5
+sample type general 5
+patient disorder 5
+two daughters ages 5
+myocardial infarction 5
+complaining ear pain 5
+diabetes heart 5
+one years 5
+history positive 5
+patient takes 5
+child well 5
+patient medications 5
+patient reports 5
+family history coronary artery disease 5
+patient admits history associated maternal 5
+illness year history 5
+present illness patient year history 5
+complaining pain 5
+family history breast age 5
+family history also 5
+patient year history 5
+sample patient old 5
+siblings age 5
+year female 5
+diabetes maternal 5
+history family heart 4
+patient year old history 4
+present year old history 4
+history family paternal 4
+history present illness patient year old 4
+sample medical today 4
+family age history stroke 4
+patient medical transcription 4
+sample general name 4
+illness patient white 4
+patient medical report 4
+sample transcription subjective 4
+family patient history breast 4
+patient transcription report 4
+type general sample name 4
+illness old history 4
+medical illness 4
+died one 4
+general sample description 4
+year old history 4
+family age history 4
+sample medical transcription today 4
+patient transcription 4
+stroke died 4
+died myocardial infarction 4
+present illness year old history 4
+general sample 4
+family patient breast 4
+illness patient old history 4
+illness patient year old history 4
+type general sample 4
+patient medical transcription report 4
+present patient year old 4
+sample medical transcription report today 4
+sample type general name 4
+died infarction 4
+age history hypertension 4
+present patient year white 4
+type general sample name description 4
+patient family history breast 4
+died diabetes 4
+lives patient 4
+general sample name 4
+sample medical report today 4
+alcohol abuse 4
+history illness patient old 4
+present illness patient old history 4
+sample transcription report today 4
+medical age history 4
+history age hypertension 4
+type general name description 4
+patient medical sample 4
+sample medical transcription report subjective 4
+patient sample 4
+present illness patient year old history 4
+sample general description 4
+died myocardial 4
+sample medical report subjective 4
+medical year old white 4
+age hypertension 4
+sample general name description 4
+present illness patient old 4
+illness patient year white 4
+present patient white 4
+sample transcription today 4
+died age stroke 4
+age accident 4
+type general sample description 4
+sample type general name description 4
+type general description 4
+sample medical subjective 4
+history present illness patient old 4
+patient report 4
+sisters one 4
+sample transcription report subjective 4
+present illness patient year old 4
+age healthy 4
+history present patient old 4
+family medical age history 4
+illness year old history 4
+history illness patient year old 4
+present old history 4
+heart age 4
+present patient year old history 4
+type general name 4
+present patient year old white 4
+illness patient year old white 4
+abuse history 4
+illness patient year old 4
+history present patient year old 4
+unknown died 4
+present illness old history 4
+patient family breast 4
+patient transcription sample 4
+medical white 4
+illness patient old white 4
+general name 4
+general sample name description 4
+died age years 4
+present patient old history 4
+patient medical transcription sample 4
+illness patient old 4
+present illness patient old white 4
+medical old white 4
+medical year white 4
+currently lives 4
+status patient 4
+old history 4
+sample medical transcription subjective 4
+hypertension age 4
+sample type general description 4
+history patient breast 4
+general name description 4
+family history patient breast 4
+present patient old 4
+present patient old white 4
+present illness patient white 4
+present illness patient year white 4
+general description 4
+present illness patient year old white 4
+age history stroke 4
+patient old history 4
+family history reports 3
+sample medical transcription report old 3
+maternal diabetes 3
+history patient maternal associated 3
+history admits maternal associated 3
+two siblings age 3
+year history patient 3
+family lives 3
+medical report patient old 3
+maternal associated 3
+patient admits maternal associated 3
+sample transcription report year old 3
+history patient admits maternal associated 3
+sample medical transcription old 3
+diabetes family 3
+sample transcription year 3
+present year patient 3
+night states 3
+sample medical transcription report year 3
+patient maternal associated 3
+sample transcription report year 3
+medical sample patient old 3
+family medical patient history 3
+medical transcription sample report patient old 3
+admits maternal associated 3
+reports family 3
+diabetes breast 3
+sample medical year old 3
+present history patient 3
+history maternal associated 3
+family history age died 3
+sample medical transcription year 3
+sample medical report old 3
+sample medical year 3
+patient states 3
+lives age 3
+transcription sample patient old 3
+diabetes heart disease 3
+illness history patient 3
+transcription patient old 3
+currently years 3
+sample medical transcription report year old 3
+psychiatric medical 3
+family age died 3
+psychiatric patient 3
+sample medical report year 3
+history illness year patient 3
+year patient 3
+psychiatric family 3
+sample transcription report old 3
+family psychiatric 3
+medical transcription sample patient old 3
+dm age 3
+history family alzheimer disease 3
+medical transcription patient old 3
+history family hypertension 3
+medical psychiatric 3
+reports patient 3
+transcription sample report patient old 3
+illness year patient 3
+sample medical transcription year old 3
+history year patient 3
+transcription report patient old 3
+two siblings 3
+medical patient old 3
+medical patient history 3
+sample medical report year old 3
+patient history maternal associated 3
+present illness history patient 3
+history abuse 3
+sample transcription old 3
+sample medical old 3
+history family alzheimer 3
+present illness year history patient 3
+admits history maternal associated 3
+present year history patient 3
+also history 3
+history family disease 3
+history present illness year patient 3
+sample transcription year old 3
+history present year patient 3
+present illness year patient 3
+report patient old 3
+currently years old 3
+illness year history patient 3
+medical sample report patient old 3
+family side 3
+patient admits history maternal associated 3
+similar symptoms 3
+medical transcription report patient old 3
+sample report patient old 3
+history age died 3
+patient present old white 2
+patient history present year 2
+diabetes type 2
+history illness old patient 2
+states patient 2
+heart disease diabetes 2
+old medical 2
+white medical 2
+breast diabetes 2
+sample patient report old 2
+illness year old history patient 2
+sample name description general 2
+patient history year old 2
+patient history present illness 2
+patient present year old 2
+patient illness year white 2
+year old history patient 2
+patient medical sample report old 2
+history old patient 2
+history patient present illness year 2
+medical history family 2
+illness old history patient 2
+healthy old 2
+year old white medical 2
+history patient present illness old 2
+died age history 2
+significant family history 2
+present illness white patient 2
+sample description general 2
+sample patient medical transcription report old 2
+year white medical 2
+present illness year old patient 2
+patient present illness 2
+check well 2
+patient illness white 2
+siblings two 2
+years patient 2
+illness year old white patient 2
+history patient present year old 2
+history family died 2
+present illness year old white patient 2
+history illness year old patient 2
+present old history patient 2
+patient history old 2
+family age breast 2
+patient history age 2
+patient present illness old 2
+general description sample 2
+patient present 2
+patient medical report old 2
+type general name sample 2
+patient transcription report old 2
+year old medical 2
+sample patient medical report old 2
+patient present white 2
+name gen description sample 2
+name description general 2
+gen description sample 2
+patient history illness year old 2
+year old white patient 2
+history patient illness 2
+patient medical report today 2
+social lives patient 2
+year old patient 2
+years old currently 2
+patient history present illness year old 2
+patient illness 2
+patient history illness year 2
+patient present illness year old white 2
+patient present old 2
+history patient family breast 2
+name general 2
+patient illness year old white 2
+type description general 2
+patient old medical 2
+description patient transcription 2
+patient sample report old 2
+social history lives patient 2
+patient psychiatric 2
+patient present year 2
+general name sample 2
+stroke died age 2
+patient transcription today 2
+years currently 2
+present year old white patient 2
+history hypertension age 2
+history medical patient 2
+patient consent 2
+age lives 2
+type name description general 2
+med sample 2
+type sample general 2
+history lives patient 2
+patient illness year 2
+present illness year old history patient 2
+history patient present 2
+gen med sample 2
+old white medical 2
+reports history 2
+name gen med description sample 2
+sample patient transcription report old 2
+general name description sample 2
+sample type name description general 2
+patient report old 2
+patient present illness year white 2
+present illness old white patient 2
+patient history present illness old 2
+heart diabetes 2
+failure kidney 2
+history present year old patient 2
+states night 2
+illness white patient 2
+history patient present year 2
+symptoms similar 2
+years lives 2
+present year old patient 2
+patient medical transcription today 2
+med description sample 2
+name gen med sample 2
+patient report today 2
+died heart age 2
+patient status 2
+name med description sample 2
+history present illness year old patient 2
+illness medical 2
+disorder patient 2
+patient transcription old 2
+history patient present illness year old 2
+old currently 2
+age died old 2
+sample name general 2
+illness year old patient 2
+history patient present illness 2
+patient transcription sample report old 2
+white patient 2
+description patient medical 2
+illness old patient 2
+patient history year 2
+patient present illness old white 2
+asthma healthy 2
+sisters two 2
+patient illness year old 2
+type sample description general 2
+sample patient transcription 2
+old white patient 2
+siblings two age 2
+patient medical sample old 2
+patient present illness year 2
+present illness old history patient 2
+old medical patient 2
+patient medical transcription sample old 2
+significant history 2
+patient sample old 2
+patient transcription sample old 2
+patient medical old 2
+history patient illness year 2
+sample patient medical transcription old 2
+history present illness old patient 2
+description patient medical transcription 2
+present old patient 2
+type sample name general 2
+sample patient medical 2
+significant family 2
+history diabetes family 2
+medical family 2
+sample patient transcription old 2
+old years 2
+lives family 2
+present illness old patient 2
+patient present illness white 2
+breast two 2
+died history 2
+check child 2
+type general name description sample 2
+accident age 2
+patient history present 2
+old history patient 2
+patient history illness 2
+present old white patient 2
+sample patient medical old 2
+disease diabetes 2
+description patient consent 2
+history patient present old 2
+history patient illness year old 2
+reports family history 2
+patient medical transcription sample report old 2
+patient transcription report today 2
+name gen sample 2
+patient present year white 2
+stroke age 2
+sample patient medical transcription 2
+patient history present year old 2
+gen sample 2
+patient history illness old 2
+patient medical transcription report old 2
+name med sample 2
+patient medical today 2
+present illness year white patient 2
+patient medical transcription report today 2
+year white patient 2
+sample type description general 2
+old patient 2
+family history age breast 2
+history patient illness old 2
+present year white patient 2
+type sample name description general 2
+history family breast 2
+present year old history patient 2
+illness old white patient 2
+illness year white patient 2
+patient medical transcription old 2
+patient illness old white 2
+patient history present illness year 2
+type general description sample 2
+type name general 2
+takes patient 2
+well check child 2
+history present old patient 2
+sample type name general 2
+patient illness old 2
+age died years 2
+history age breast 2
+patient history present old 2
+brothers two 2
+patient present year old white 2
+description general 2
+present white patient 2
+gen med description sample 2
+patient present illness year old 2
+history year old patient 2
+age dm 2
+year medical 2
+died years age 2
+report old year 1
+sample old year 1
+illness history year 1
+sample medical transcription old year 1
+medical patient family 1
+medical transcription report old year 1
+sample report old year 1
+infarction died 1
+medical transcription sample old year 1
+female year 1
+female year old 1
+abuse alcohol 1
+present history patient year 1
+two history 1
+healthy age 1
+one sisters 1
+transcription sample old year 1
+present illness history patient year 1
+medical transcription old year 1
+medicine general 1
+family history medical 1
+transcription report old year 1
+medical family history 1
+history patient family medical 1
+myocardial died 1
+sample transcription report old year 1
+also family 1
+patient family medical 1
+female old 1
+transcription sample report old year 1
+type history 1
+old female year 1
+medical history patient family 1
+history family significant 1
+present history year patient 1
+old year 1
+family history patient medical 1
+family patient medical 1
+medical history family age 1
+myocardial infarction died 1
+history reports family 1
+family patient medical history 1
+sample medical old year 1
+patient family medical history 1
+illness history year patient 1
+transcription old year 1
+medical family age 1
+history family age 1
+present history year 1
+present illness history year 1
+sample medical report old year 1
+medical sample report old year 1
+illness history patient year 1
+year female old 1
+sample medical transcription report old year 1
+sample transcription old year 1
+medical sample old year 1
+lives currently 1
+also family history 1
+present illness history year patient 1
+medical patient family history 1
+today patient 1
+medical old year 1
+medical report old year 1
+history family medical 1
+medical transcription sample report old year 1

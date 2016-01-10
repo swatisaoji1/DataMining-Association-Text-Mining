@@ -1,0 +1,40 @@
+In first 100 word list: 
+There are 29 associations with at least one family member.
+There are 6 associations with at least one Disease.
+There are 28 associations with at least one family member and NO disease.
+There are 1 associations both family member and disease.
+There are 66 associations with neither family nor disease.
+====================================================================
+
+In first 200 word list: 
+There are 53 associations with at least one family member.
+There are 12 associations with at least one Disease.
+There are 51 associations with at least one family member and NO disease.
+There are 2 associations both family member and disease.
+There are 137 associations with neither family nor disease.
+====================================================================
+
+In first 500 word list: 
+There are 128 associations with at least one family member.
+There are 31 associations with at least one Disease.
+There are 120 associations with at least one family member and NO disease.
+There are 8 associations both family member and disease.
+There are 349 associations with neither family nor disease.
+====================================================================
+
+In first 1000 word list: 
+There are 286 associations with at least one family member.
+There are 69 associations with at least one Disease.
+There are 259 associations with at least one family member and NO disease.
+There are 27 associations both family member and disease.
+There are 672 associations with neither family nor disease.
+====================================================================
+
+The total associations studied in 10 spanned sets are 2283 : The pattern :
+.There are 908 associations with at least one family member.
+There are 206 associations with at least one Disease.
+There are 807 associations with at least one family member and NO disease.
+There are 101 associations both family member and disease.
+There are 1270 associations with neither family nor disease.
+====================================================================
+

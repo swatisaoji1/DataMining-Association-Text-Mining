@@ -1,0 +1,40 @@
+family grandmother 20
+history grandmother 18
+family history grandmother 18
+maternal grandmother 8
+associated grandmother 7
+admits grandmother 7
+paternal grandmother 7
+history family grandmother 7
+admits associated grandmother 7
+grandmother mother 6
+history paternal grandmother 6
+grandmother died 5
+history disease grandmother 5
+grandmother cancer 5
+mother grandmother 5
+disease grandmother 5
+family disease grandmother 5
+family history disease grandmother 5
+grandmother maternal 4
+diabetes grandmother 4
+history mother grandmother 4
+grandmother alzheimer 3
+alzheimer grandmother 3
+grandmother alzheimer disease 3
+grandmother disease 3
+alzheimer disease grandmother 3
+grandmother father 3
+grandmother diabetes 3
+history family disease grandmother 3
+family history grandmother disease 2
+family grandmother disease 2
+father grandmother 2
+grandmother associated 2
+maternal diabetes grandmother 2
+diabetes maternal grandmother 2
+history grandmother mother 2
+diabetes grandmother maternal 2
+admits grandmother associated 2
+history grandmother disease 2
+maternal grandmother diabetes 1

@@ -1,0 +1,5 @@
+family grandfather 7
+maternal grandfather 7
+patient grandfather 4
+grandfather patient 2
+grandfather maternal 2

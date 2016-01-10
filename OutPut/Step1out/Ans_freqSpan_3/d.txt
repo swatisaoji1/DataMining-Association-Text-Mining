@@ -1,0 +1,19 @@
+mother depression 9
+father ca 7
+sister breast cancer 7
+mother mi 6
+mother died mi 6
+father mi 6
+father died mi 6
+mother died cancer 6
+father mi age 4
+mother hypertension depression 4
+mother cancer died 4
+depression mother 3
+mi mother 2
+sister cancer breast 2
+mi age father 2
+died mi father 2
+mi father 2
+hypertension mother depression 2
+died mi mother 2

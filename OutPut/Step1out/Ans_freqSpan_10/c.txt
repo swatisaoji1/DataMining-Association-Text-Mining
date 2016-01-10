@@ -1,0 +1,807 @@
+history mother 82
+history father 62
+family father 56
+family mother 56
+family history mother 53
+family history father 52
+father died 51
+father age 44
+patient mother 42
+mother died 41
+mother age 36
+mother well 35
+father died age 34
+old mother 27
+mother father 27
+mother died age 23
+history patient mother 22
+brother age 22
+brother died 22
+patient daughter 21
+family grandmother 20
+fhx father 20
+father mother 20
+family father age 18
+history father age 18
+history grandmother 18
+family history grandmother 18
+father disease 17
+father years 17
+sister age 17
+family father died 16
+mother states 16
+family sister 16
+family history father age 16
+family history sister 16
+father old 15
+fhx mother 15
+mother history 15
+year mother 15
+mother reports 15
+year old mother 15
+patient mom 15
+lives mother 14
+family history father died 14
+brother years 14
+one brother 14
+old male mother 14
+mother years 14
+history father died 14
+male mother 14
+mother patient 13
+social mother 12
+patient father 12
+brother died age 12
+social history mother 12
+patient brother 12
+family father died age 12
+family mother died 12
+child mother 11
+history mother father 11
+father stroke 11
+one daughter 11
+mother heart 11
+mother child 11
+father well 10
+white mother 10
+family mother father 10
+year male mother 10
+history brother 10
+history mother age 10
+family mother age 10
+sister died 10
+history mother died 10
+fhx father died 10
+mother dm 10
+history father died age 10
+patient history mother 10
+year old male mother 10
+old white mother 10
+history patient father 10
+family history mother died 10
+family history father died age 10
+mom patient 9
+sister breast 9
+father brother 9
+mother disease 9
+father heart 9
+significant father 9
+mother died heart 9
+description mother 9
+two brother 9
+mother breast 9
+mother two 9
+medical father 8
+old white male mother 8
+family history mother age 8
+gestation mother 8
+maternal grandmother 8
+medical mom 8
+fhx father age 8
+mother stroke 8
+one sister 8
+father died years 8
+report mom 8
+transcription report mom 8
+mother old 8
+medical patient mother 8
+transcription mom 8
+medical transcription mom 8
+family medical father 8
+father alcohol 8
+medical history father 8
+father history 8
+medical report mom 8
+white male mother 8
+family medical history father 8
+diabetes father 8
+daughter home 8
+sample mom 8
+medical transcription report mom 8
+fhx father died age 8
+mother diabetes 8
+family history brother 8
+mother one 8
+family history mother diabetes 8
+family mother diabetes 8
+sample report mom 8
+brought mother 8
+history mother diabetes 8
+mother since 7
+brother sister 7
+associated grandmother 7
+admits grandmother 7
+mother failure 7
+family grandfather 7
+years brother 7
+paternal grandmother 7
+know mother 7
+description old mother 7
+family patient father 7
+history family grandmother 7
+admits associated grandmother 7
+mother died heart failure 7
+mother concerns 7
+old daughter 7
+family history mother father 7
+mother heart failure 7
+birth mother 7
+age father 7
+brother heart 7
+fhx mother died 7
+states mother 7
+fhx mother age 7
+maternal grandfather 7
+brother brain 7
+father also 7
+fhx mother died age 7
+siblings brother 7
+lives daughter 7
+family history patient father 7
+mother died failure 7
+sister breast age 7
+father years old 7
+father heart disease 7
+vaginal mother 6
+two one brother 6
+family father disease 6
+father age stroke 6
+breast mother 6
+fhx father disease 6
+grandmother mother 6
+mother died father 6
+family mother stroke 6
+history father disease 6
+states father 6
+mother well child check 6
+mother child check 6
+history father mother 6
+year daughter 6
+years old mother 6
+admits associated mother 6
+family history father mother 6
+history mother stroke 6
+mother unknown 6
+father type 6
+mother well check 6
+father patient 6
+delivery mother 6
+vaginal delivery mother 6
+admits mother 6
+history paternal grandmother 6
+history family mother 6
+hx mother 6
+family mother died age 6
+history breast mother 6
+mother care 6
+mother past 6
+mother side 6
+old mother well 6
+father accident 6
+hypertension father 6
+month mother 6
+years mother 6
+family diabetes father 6
+father diabetes 6
+mother father age 6
+history mother breast 6
+mother well child 6
+family history mother stroke 6
+relationship mother 6
+father deceased 6
+discussed mother 6
+mother check 6
+mom today 6
+died father 6
+father unknown 6
+mother coronary 6
+family history father disease 6
+father side 6
+mother father died 6
+family father mother 6
+age sister 6
+father problems 6
+currently father 6
+mother several 6
+mother alive 6
+mother age father 6
+mother coronary disease 6
+mother also 6
+plan mother 6
+daughter care 6
+associated mother 6
+father died heart 5
+social history patient brother 5
+two brother age 5
+history patient brother 5
+grandmother died 5
+social patient brother 5
+mother died old 5
+history disease grandmother 5
+brother sister age 5
+social history mother father 5
+father stroke hypertension 5
+mother problems 5
+family positive disease father 5
+family maternal grandfather 5
+history father years 5
+siblings brother age 5
+mother grandmother 5
+siblings sister 5
+breast daughter 5
+month daughter 5
+brother ago 5
+brother age sister 5
+mother good 5
+chart mother 5
+history positive father 5
+lives father 5
+patient brother age 5
+social history father 5
+history significant father 5
+family history positive disease father 5
+per mother 5
+brother brain tumor 5
+partner old daughter 5
+mother sister 5
+disease grandmother 5
+father strokes 5
+positive father 5
+father side family 5
+patient old mother 5
+mom several 5
+medical history patient mother 5
+comes mother 5
+father htn 5
+child mother well 5
+father family 5
+family medical history mother 5
+fhx father htn 5
+positive disease father 5
+family disease father 5
+history disease father 5
+family disease grandmother 5
+father died age heart 5
+two sister 5
+partner daughter 5
+daughter patient 5
+history brother age 5
+mother disorder 5
+mother complaining 5
+age daughter 5
+family mother history 5
+social mother father 5
+mother ear 5
+sister years 5
+reports mother 5
+family medical patient mother 5
+daughter age 5
+brother diabetes 5
+mother alcohol 5
+social history brother 5
+family significant father 5
+history positive disease father 5
+social brother 5
+family history disease grandmother 5
+social father 5
+maternal aunt 5
+family history disease father 5
+fhx father mother 5
+mother died dm 5
+mom concerned 5
+father hypertension 5
+history mother years 5
+father died old 5
+social patient mother 5
+family positive father 5
+family medical mother 5
+siblings brother sister 5
+family history positive father 5
+father renal 5
+kidney mother 5
+social history patient mother 5
+history father brother 5
+father age heart 5
+family medical history patient mother 5
+mother history age 5
+disease father 5
+history patient brother age 5
+presents mother 5
+brother tumor 5
+brother years age 5
+father age old 4
+diabetes brother 4
+father abuse 4
+transcription mom patient today 4
+family history heart father 4
+father age accident 4
+well mother 4
+father died age old 4
+family died father 4
+mom ear 4
+father age history hypertension 4
+sample mom today 4
+medical transcription mom patient 4
+patient family history father 4
+heart father 4
+patient grandfather 4
+report mom patient 4
+history father diabetes 4
+hypertension father age 4
+stroke father 4
+family heart father 4
+history mother reports 4
+family father history 4
+transcription mom patient 4
+history age father 4
+patient family father 4
+family father history stroke 4
+family history died father 4
+transcription report mom patient today 4
+medical report mom patient today 4
+patient breast mother 4
+medical mom patient 4
+report mom patient today 4
+transcription report mom patient 4
+medical transcription mom patient today 4
+transcription patient mom 4
+history heart father 4
+history diabetes father 4
+medical report mom patient 4
+father history stroke 4
+mother died age father 4
+mother died stroke 4
+history died father 4
+mother health 4
+born mother 4
+maternal mother 4
+mom patient today 4
+today mom 4
+sample report mom today 4
+family history father stroke 4
+mother factors 4
+medical report mom today 4
+medical transcription report mom patient 4
+medical mom patient today 4
+history patient family father 4
+history family father 4
+mother history died age 4
+medical report patient mom 4
+diabetes mother 4
+medical mom today 4
+transcription report mom today 4
+medical transcription mom today 4
+father coronary artery 4
+medical transcription report patient mom 4
+history father stroke 4
+history father patient 4
+present daughter 4
+patient history father 4
+better mother 4
+weeks mother 4
+family medical father history 4
+medical father history 4
+brother heart age 4
+medical transcription patient mom 4
+family history father patient 4
+family patient history father 4
+patient mother age 4
+history father hypertension 4
+died age father 4
+mother died age old 4
+grandmother maternal 4
+mother healthy 4
+mother age old 4
+father coronary 4
+mother hypertension 4
+report mom today 4
+transcription report patient mom 4
+medical patient mom 4
+family diabetes mother 4
+medical transcription report mom patient today 4
+family father diabetes 4
+sister also 4
+transcription mom today 4
+father artery 4
+family father patient 4
+mother father died age 4
+diabetes grandmother 4
+father died age years 4
+mother pregnancy 4
+family history father diabetes 4
+father age years 4
+history father age hypertension 4
+psychiatric mother 4
+family father stroke 4
+father age history 4
+mother history died 4
+died brother 4
+father age hypertension 4
+medical transcription report mom today 4
+report patient mom 4
+sister one 4
+patient history breast mother 4
+family father age history 4
+father died stroke 4
+mother years old 4
+mother history breast 4
+currently mother 4
+family history diabetes father 4
+father history hypertension 4
+history mother grandmother 4
+history mother died age 4
+mother kidney 4
+office mother 3
+brother disease 3
+grandmother alzheimer 3
+alzheimer grandmother 3
+artery disease brother 3
+family history coronary artery father 3
+family history coronary father 3
+coronary artery brother 3
+history coronary father 3
+father died old age 3
+grandmother alzheimer disease 3
+father years age 3
+pregnancy mother 3
+grandmother disease 3
+coronary artery disease father 3
+side mother 3
+history father also 3
+history artery disease father 3
+artery father 3
+history coronary artery disease father 3
+father old age 3
+ear pain mom 3
+alzheimer disease grandmother 3
+grandmother father 3
+artery disease father 3
+mother maternal 3
+stroke mother 3
+states daughter 3
+mother family 3
+lives brother 3
+coronary artery disease brother 3
+lives brother years 3
+coronary artery father 3
+coronary disease brother 3
+pain mom 3
+family coronary artery father 3
+consent patient mom 3
+mother questions 3
+patient mother breast 3
+mother died old age 3
+family artery father 3
+family history artery father 3
+disease brother 3
+consent mom 3
+father two 3
+since mother 3
+two siblings brother age 3
+father medication 3
+artery brother 3
+home mother 3
+mom sister 3
+relationship father 3
+father relationship 3
+history artery father 3
+family coronary father 3
+history coronary disease father 3
+coronary disease father 3
+years sister 3
+grandmother diabetes 3
+disorder mother 3
+brother age heart 3
+family history significant father 3
+brother age years 3
+family medical mother history 3
+history family disease grandmother 3
+patient years mother 3
+two siblings brother 3
+coronary brother 3
+mother dm age 3
+mother currently 3
+night mom 3
+mother birth 3
+medical patient mother history 3
+history coronary artery father 3
+age brother 3
+coronary father 3
+family medical patient mother history 3
+ear mom 3
+mother old age 3
+patient mother history 3
+mother weeks 3
+history mother pregnancy 3
+mother home 3
+sister mother 3
+mother patient medical 2
+patient medical report mom 2
+history family sister 2
+family history grandmother disease 2
+family history father artery 2
+family history father coronary 2
+patient transcription report today mom 2
+history father heart 2
+history stroke father 2
+significant family history father 2
+brother age history 2
+brother years lives 2
+well mother child 2
+family mother history diabetes 2
+father died mother 2
+family age father died 2
+mom consent 2
+siblings two brother 2
+medical patient today mom 2
+also mother 2
+history hypertension father 2
+patient mother history breast 2
+brother coronary disease 2
+heart disease father 2
+sample today mom 2
+age father years 2
+disease mother 2
+significant family father 2
+family father coronary 2
+fhx died mother 2
+mother office 2
+mother died father age 2
+brother history 2
+report patient today mom 2
+mom night 2
+sister mom 2
+brother patient 2
+stroke father died 2
+child check mother 2
+father artery disease 2
+brother coronary 2
+abuse father 2
+father accident age 2
+history died father age 2
+mother history diabetes 2
+father currently 2
+family died father age 2
+died father old 2
+history mother patient 2
+well check mother child 2
+also sister 2
+patient transcription report mom 2
+family age father 2
+died brother age 2
+patient medical history mother 2
+father history coronary disease 2
+brother artery disease 2
+history patient mother breast 2
+family grandmother disease 2
+mother month 2
+died father age years 2
+questions mother 2
+age father died years 2
+family stroke father 2
+history diabetes mother 2
+health mother 2
+patient mother years 2
+mother psychiatric 2
+fhx father died mother 2
+mother age died 2
+transcription patient today mom 2
+died age father old 2
+daughter present 2
+two father 2
+family father artery 2
+died stroke father 2
+age father died old 2
+history mother age died 2
+history age brother 2
+stroke died father 2
+father history artery 2
+daughter states 2
+family father side 2
+history pregnancy mother 2
+family history died father age 2
+mother patient age 2
+medical today mom 2
+stroke mother died 2
+medical transcription patient today mom 2
+father history coronary artery 2
+patient transcription mom 2
+reports family history mother 2
+died father age 2
+family history age father died 2
+family history diabetes mother 2
+siblings two brother age 2
+mother gestation 2
+mother age father died 2
+patient medical transcription mom 2
+father patient mother 2
+reports history mother 2
+medical report today mom 2
+brother artery 2
+daughter month 2
+fhx mother father 2
+fhx mother died father 2
+medical transcription report patient today mom 2
+father grandmother 2
+transcription report today mom 2
+stroke age father 2
+family history reports mother 2
+history father coronary 2
+patient medical transcription report mom 2
+father history coronary 2
+history diabetes father family 2
+age father died 2
+family died age father 2
+mother age died old 2
+father history artery disease 2
+diabetes father family 2
+brother patient age 2
+grandmother associated 2
+mother old years 2
+patient report mom 2
+family reports mother 2
+check mother 2
+died mother 2
+father coronary artery disease 2
+patient medical transcription report today mom 2
+patient medical report today mom 2
+brother coronary artery disease 2
+history father artery 2
+mother stroke died 2
+brother coronary artery 2
+mother old well 2
+history age father died 2
+family history father heart 2
+sister age breast 2
+history family heart father 2
+mom ear pain 2
+healthy mother 2
+fhx died age father 2
+died sister 2
+family grandfather maternal 2
+history father family 2
+good mother 2
+report today mom 2
+family history died age father 2
+history died age father 2
+brother one 2
+mother year 2
+reports family mother 2
+mother better 2
+history hypertension father age 2
+check mother child 2
+family father coronary artery 2
+history mother family 2
+transcription today mom 2
+well child check mother 2
+patient transcription today mom 2
+family mother age died 2
+maternal diabetes grandmother 2
+history patient breast mother 2
+father died years age 2
+grandfather maternal 2
+significant history father 2
+sample report today mom 2
+history patient age brother 2
+patient medical today mom 2
+history father coronary artery 2
+father history disease 2
+past mother 2
+history reports mother 2
+diabetes maternal grandmother 2
+died father age old 2
+well check mother 2
+home daughter 2
+mom pain 2
+family mother reports 2
+father also history 2
+brother lives years 2
+history grandmother mother 2
+diabetes grandmother maternal 2
+social history mother patient 2
+well child mother 2
+father history coronary artery disease 2
+patient medical mom 2
+patient age brother 2
+sister two 2
+family history father coronary artery 2
+patient today mom 2
+admits grandmother associated 2
+medical transcription report today mom 2
+died father years 2
+patient mom consent 2
+fhx died father 2
+medication father 2
+daughter breast 2
+mother age dm 2
+died age father years 2
+age father old 2
+history patient medical mother 2
+father coronary disease 2
+family history age father 2
+died mother dm 2
+brother age died 2
+patient medical transcription today mom 2
+family father heart 2
+social mother patient 2
+medical report patient today mom 2
+fhx age father 2
+patient report today mom 2
+family history stroke father 2
+grandfather patient 2
+brother lives 2
+patient medical mother 2
+history grandmother disease 2
+hypertension mother 2
+transcription report patient today mom 2
+patient mother father 2
+medical transcription today mom 2
+age mother 2
+side family father 1
+patient mother family medical 1
+old mother year 1
+patient mother medical 1
+mother history father 1
+medical history patient mother family 1
+patient mother family medical history 1
+medical mother family 1
+family mother medical 1
+mother year old 1
+problems father 1
+father family mother 1
+also father 1
+father mother patient 1
+history mother family medical 1
+history patient mother medical 1
+mother reports family 1
+description mother old 1
+medical history mother family 1
+problems mother 1
+factors mother 1
+father mother died 1
+mother born 1
+history mother reports family 1
+family history patient mother medical 1
+two mother 1
+history patient mother family medical 1
+family history mother reports 1
+family patient mother medical history 1
+maternal grandmother diabetes 1
+father mother age 1
+years age brother 1
+patient mother medical history 1
+father mother died age 1
+year mother old 1
+family patient mother medical 1
+family mother medical history 1
+family history mother medical 1
+medical patient mother family history 1
+side father 1
+mother family history 1
+mother family medical history 1
+failure mother 1
+mother family medical 1
+fhx father mother died 1
+medical patient mother family 1
+medical mother family history 1
+daughter year 1

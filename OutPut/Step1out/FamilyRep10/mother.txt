@@ -1,0 +1,445 @@
+history mother 82
+family mother 56
+family history mother 53
+patient mother 42
+mother died 41
+mother age 36
+mother well 35
+old mother 27
+mother father 27
+mother died age 23
+history patient mother 22
+father mother 20
+mother cancer 17
+mother states 16
+fhx mother 15
+mother history 15
+year mother 15
+mother reports 15
+year old mother 15
+patient mom 15
+lives mother 14
+old male mother 14
+mother years 14
+male mother 14
+mother patient 13
+family history mother cancer 12
+social mother 12
+history mother cancer 12
+social history mother 12
+family mother died 12
+child mother 11
+history mother father 11
+mother heart 11
+mother child 11
+white mother 10
+family mother father 10
+year male mother 10
+history mother age 10
+family mother age 10
+history mother died 10
+mother dm 10
+patient history mother 10
+year old male mother 10
+old white mother 10
+family history mother died 10
+mom patient 9
+mother disease 9
+mother breast cancer 9
+mother died heart 9
+description mother 9
+mother depression 9
+mother breast 9
+mother two 9
+old white male mother 8
+family history mother age 8
+gestation mother 8
+medical mom 8
+mother stroke 8
+report mom 8
+transcription report mom 8
+mother old 8
+medical patient mother 8
+transcription mom 8
+medical transcription mom 8
+medical report mom 8
+white male mother 8
+sample mom 8
+medical transcription report mom 8
+mother diabetes 8
+mother one 8
+family history mother diabetes 8
+family mother diabetes 8
+sample report mom 8
+brought mother 8
+history mother diabetes 8
+mother since 7
+mother failure 7
+know mother 7
+description old mother 7
+mother died heart failure 7
+mother concerns 7
+family history mother father 7
+mother heart failure 7
+birth mother 7
+fhx mother died 7
+states mother 7
+fhx mother age 7
+fhx mother died age 7
+mother died failure 7
+family mother died cancer 6
+vaginal mother 6
+breast mother 6
+history cancer mother 6
+grandmother mother 6
+mother died father 6
+mother died cancer 6
+family history cancer mother 6
+family mother stroke 6
+cancer mother 6
+mother well child check 6
+mother child check 6
+history father mother 6
+years old mother 6
+admits associated mother 6
+family history father mother 6
+history mother stroke 6
+mother unknown 6
+mother died mi 6
+mother well check 6
+delivery mother 6
+vaginal delivery mother 6
+admits mother 6
+history family mother 6
+hx mother 6
+family mother died age 6
+history breast mother 6
+mother care 6
+mother past 6
+mother side 6
+old mother well 6
+month mother 6
+years mother 6
+mother father age 6
+history mother breast 6
+mother well child 6
+family history mother stroke 6
+relationship mother 6
+discussed mother 6
+mother check 6
+mom today 6
+mother coronary 6
+mother father died 6
+family father mother 6
+mother several 6
+mother alive 6
+mother age father 6
+mother coronary disease 6
+mother also 6
+mother mi 6
+plan mother 6
+associated mother 6
+mother died old 5
+social history mother father 5
+mother problems 5
+mother grandmother 5
+mother good 5
+chart mother 5
+per mother 5
+mother sister 5
+patient old mother 5
+mom several 5
+medical history patient mother 5
+comes mother 5
+child mother well 5
+family medical history mother 5
+mother disorder 5
+mother complaining 5
+family mother history 5
+social mother father 5
+mother ear 5
+reports mother 5
+family medical patient mother 5
+mother alcohol 5
+fhx father mother 5
+mother died dm 5
+mom concerned 5
+history mother years 5
+social patient mother 5
+family medical mother 5
+kidney mother 5
+social history patient mother 5
+family medical history patient mother 5
+mother history age 5
+presents mother 5
+mother history cancer 4
+family history mother died cancer 4
+history mother died cancer 4
+transcription mom patient today 4
+well mother 4
+mom ear 4
+sample mom today 4
+medical transcription mom patient 4
+report mom patient 4
+history mother reports 4
+transcription mom patient 4
+mother age cancer 4
+transcription report mom patient today 4
+medical report mom patient today 4
+family history mother cancer died 4
+patient breast mother 4
+medical mom patient 4
+report mom patient today 4
+transcription report mom patient 4
+medical transcription mom patient today 4
+transcription patient mom 4
+mother hypertension depression 4
+medical report mom patient 4
+fhx mother mi 4
+mother died age father 4
+mother died stroke 4
+mother health 4
+born mother 4
+history mother cancer died 4
+maternal mother 4
+mom patient today 4
+today mom 4
+sample report mom today 4
+mother factors 4
+medical report mom today 4
+medical transcription report mom patient 4
+medical mom patient today 4
+mother history died age 4
+medical report patient mom 4
+diabetes mother 4
+medical mom today 4
+transcription report mom today 4
+medical transcription mom today 4
+medical transcription report patient mom 4
+better mother 4
+weeks mother 4
+family mother cancer died 4
+medical transcription patient mom 4
+patient mother age 4
+mother died age old 4
+patient cancer mother 4
+mother healthy 4
+mother age old 4
+mother cancer died 4
+mother hypertension 4
+report mom today 4
+transcription report patient mom 4
+medical patient mom 4
+family diabetes mother 4
+medical transcription report mom patient today 4
+fhx mother died mi 4
+transcription mom today 4
+mother father died age 4
+mother cancer age 4
+mother pregnancy 4
+psychiatric mother 4
+mother history died 4
+medical transcription report mom today 4
+report patient mom 4
+patient history breast mother 4
+mother years old 4
+mother history breast 4
+currently mother 4
+history mother grandmother 4
+history mother died age 4
+mother kidney 4
+office mother 3
+pregnancy mother 3
+side mother 3
+ear pain mom 3
+mother maternal 3
+stroke mother 3
+mother family 3
+pain mom 3
+consent patient mom 3
+mother questions 3
+patient mother breast 3
+mother died old age 3
+consent mom 3
+since mother 3
+patient mother breast cancer 3
+home mother 3
+mom sister 3
+patient mother cancer 3
+depression mother 3
+disorder mother 3
+family medical mother history 3
+patient years mother 3
+mother dm age 3
+mother currently 3
+night mom 3
+mother birth 3
+medical patient mother history 3
+family medical patient mother history 3
+ear mom 3
+mother old age 3
+patient mother history 3
+mother weeks 3
+history mother pregnancy 3
+mother home 3
+sister mother 3
+mother patient medical 2
+patient medical report mom 2
+patient transcription report today mom 2
+fhx died mi mother 2
+well mother child 2
+family mother history diabetes 2
+father died mother 2
+mom consent 2
+medical patient today mom 2
+also mother 2
+patient mother history breast 2
+sample today mom 2
+disease mother 2
+fhx died mother 2
+mother office 2
+mother died father age 2
+report patient today mom 2
+mom night 2
+sister mom 2
+cancer breast mother 2
+child check mother 2
+mother history diabetes 2
+history family cancer mother 2
+history mother patient 2
+well check mother child 2
+patient transcription report mom 2
+patient medical history mother 2
+history patient mother breast 2
+mother month 2
+questions mother 2
+hypertension mother depression 2
+history diabetes mother 2
+health mother 2
+patient mother years 2
+mother psychiatric 2
+breast cancer mother 2
+fhx father died mother 2
+mother age died 2
+transcription patient today mom 2
+history mother age died 2
+history pregnancy mother 2
+mother patient age 2
+medical today mom 2
+stroke mother died 2
+medical transcription patient today mom 2
+patient transcription mom 2
+reports family history mother 2
+cancer mother age 2
+family history diabetes mother 2
+mother gestation 2
+mother age father died 2
+patient medical transcription mom 2
+father patient mother 2
+reports history mother 2
+medical report today mom 2
+fhx mother father 2
+fhx mother died father 2
+medical transcription report patient today mom 2
+transcription report today mom 2
+family history reports mother 2
+patient medical transcription report mom 2
+mother age died old 2
+mother old years 2
+patient report mom 2
+family reports mother 2
+check mother 2
+died mother 2
+patient medical transcription report today mom 2
+patient medical report today mom 2
+mother stroke died 2
+mother old well 2
+mom ear pain 2
+healthy mother 2
+good mother 2
+report today mom 2
+mother year 2
+family mother history cancer 2
+reports family mother 2
+mother better 2
+check mother child 2
+history mother family 2
+transcription today mom 2
+well child check mother 2
+patient transcription today mom 2
+family mother age died 2
+history patient breast mother 2
+patient cancer breast mother 2
+sample report today mom 2
+patient medical today mom 2
+breast mother cancer 2
+past mother 2
+history reports mother 2
+well check mother 2
+mi mother 2
+mom pain 2
+family mother reports 2
+history grandmother mother 2
+social history mother patient 2
+well child mother 2
+patient medical mom 2
+patient today mom 2
+medical transcription report today mom 2
+patient mom consent 2
+mother age dm 2
+history patient medical mother 2
+died mother dm 2
+patient medical transcription today mom 2
+patient breast cancer mother 2
+social mother patient 2
+medical report patient today mom 2
+patient report today mom 2
+patient medical mother 2
+fhx mi mother 2
+died mi mother 2
+hypertension mother 2
+transcription report patient today mom 2
+patient mother father 2
+medical transcription today mom 2
+age mother 2
+patient mother family medical 1
+old mother year 1
+patient mother medical 1
+mother history father 1
+medical history patient mother family 1
+patient mother family medical history 1
+medical mother family 1
+family mother medical 1
+mother year old 1
+father family mother 1
+father mother patient 1
+history mother family medical 1
+history patient mother medical 1
+mother reports family 1
+description mother old 1
+medical history mother family 1
+problems mother 1
+factors mother 1
+father mother died 1
+mother born 1
+history mother reports family 1
+family history patient mother medical 1
+two mother 1
+history patient mother family medical 1
+family history mother reports 1
+family patient mother medical history 1
+father mother age 1
+patient mother medical history 1
+father mother died age 1
+year mother old 1
+family patient mother medical 1
+family mother medical history 1
+family history mother medical 1
+medical patient mother family history 1
+mother family history 1
+mother family medical history 1
+failure mother 1
+mother family medical 1
+fhx father mother died 1
+medical patient mother family 1
+medical mother family history 1

@@ -1,0 +1,2 @@
+Step 1: Output from sentence Splitter: 
+sentences containing one or more family members written:872 

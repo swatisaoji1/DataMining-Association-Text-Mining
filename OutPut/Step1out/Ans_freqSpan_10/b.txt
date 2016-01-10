@@ -1,0 +1,206 @@
+history cancer 33
+family cancer 32
+family history cancer 28
+breast cancer 27
+died cancer 23
+father cancer 18
+mother cancer 17
+colon cancer 16
+died mi 15
+cancer age 15
+age cancer 15
+family breast cancer 13
+history breast cancer 13
+family history mother cancer 12
+history mother cancer 12
+died age cancer 12
+two cancer 11
+family history breast cancer 11
+patient cancer 11
+fhx died mi 10
+father died cancer 10
+fhx mi 10
+mother breast cancer 9
+mother depression 9
+sister cancer 9
+breast cancer age 9
+paternal cancer 9
+fhx died mi age 8
+fhx mi age 8
+patient history cancer 8
+died mi age 8
+died cancer age 8
+mi age 8
+hypertension depression 8
+patient breast cancer 7
+father ca 7
+sister cancer age 7
+died ca 7
+brother cancer 7
+sister breast cancer 7
+died colon cancer 7
+sister breast cancer age 7
+family mother died cancer 6
+family history father cancer 6
+history cancer mother 6
+prostate cancer 6
+also cancer 6
+mother died cancer 6
+family history cancer mother 6
+cancer mother 6
+history depression 6
+father mi 6
+family colon cancer 6
+fhx father died mi 6
+two breast cancer 6
+mother died mi 6
+history patient cancer 6
+cancer years 6
+cancer breast 6
+father died mi 6
+fhx father mi 6
+history died cancer 6
+history father cancer 6
+mother mi 6
+family history died cancer 6
+family significant cancer 5
+patient family cancer 5
+grandmother cancer 5
+family history breast cancer age 5
+breast cancer daughter 5
+family patient cancer 5
+cancer daughter 5
+family patient history cancer 5
+age breast cancer 5
+diabetes cancer 5
+significant cancer 5
+father died ca 5
+family breast cancer age 5
+patient family history cancer 5
+history breast cancer age 5
+family history patient cancer 5
+patient history breast cancer 4
+mother history cancer 4
+family history mother died cancer 4
+history mother died cancer 4
+mother age cancer 4
+father died cancer age 4
+diagnosed cancer 4
+family history mother cancer died 4
+mother hypertension depression 4
+fhx mother mi 4
+maternal cancer 4
+history cancer died 4
+history mother cancer died 4
+cancer died 4
+father died age cancer 4
+fhx father mi age 4
+cancer two 4
+father died mi age 4
+father mi age 4
+family depression 4
+family mother cancer died 4
+father cancer age 4
+patient cancer mother 4
+mother cancer died 4
+fhx father died mi age 4
+fhx mother died mi 4
+father cancer years 4
+father age cancer 4
+mother cancer age 4
+family history cancer died 4
+sister age cancer 4
+history patient family cancer 3
+history family cancer 3
+cancer maternal 3
+patient mother breast cancer 3
+patient mother cancer 3
+depression mother 3
+diabetes breast cancer 3
+daughter cancer 3
+cancer died age 2
+daughter breast cancer 2
+patient family cancer breast 2
+fhx died mi mother 2
+history patient cancer breast 2
+sister cancer breast age 2
+sister cancer breast 2
+cancer two breast 2
+died mi father 2
+fhx died mi father 2
+cancer breast mother 2
+family patient history breast cancer 2
+sister age breast cancer 2
+patient family breast cancer 2
+age sister cancer 2
+patient history cancer breast 2
+history family cancer mother 2
+history patient breast cancer 2
+family patient cancer breast 2
+age cancer father died 2
+cancer age breast 2
+hypertension mother depression 2
+fhx mi age father 2
+breast cancer mother 2
+age died cancer 2
+age cancer father 2
+family age breast cancer 2
+died cancer father 2
+died father ca 2
+family history cancer breast 2
+family history patient breast cancer 2
+died cancer father age 2
+cancer mother age 2
+fhx died mi age father 2
+breast age cancer 2
+fhx mi father 2
+family history patient cancer breast 2
+cancer father age 2
+cancer daughter breast 2
+family history cancer father 2
+history cancer breast 2
+breast cancer diabetes 2
+patient cancer breast 2
+died mi age father 2
+family patient breast cancer 2
+sister cancer age breast 2
+sister breast age cancer 2
+cancer diabetes 2
+age cancer died 2
+cancer father years 2
+patient family history breast cancer 2
+breast daughter cancer 2
+family history age breast cancer 2
+family patient history cancer breast 2
+history age breast cancer 2
+cancer father 2
+cancer also 2
+family mother history cancer 2
+history cancer father 2
+patient cancer breast mother 2
+cancer father died age 2
+history family cancer breast 2
+breast mother cancer 2
+history patient family cancer breast 2
+years cancer 2
+mi mother 2
+father history cancer 2
+mi age father 2
+family cancer breast 2
+depression history 2
+cancer father died 2
+died age cancer father 2
+cancer breast age 2
+mi father 2
+patient family history cancer breast 2
+patient breast cancer mother 2
+fhx mi mother 2
+died mi mother 2
+breast cancer two 2
+cancer diagnosed 1
+age died mi 1
+age mi 1
+depression family 1
+cancer paternal 1
+history cancer patient 1
+cancer patient 1
